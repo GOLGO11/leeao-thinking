@@ -25,13 +25,13 @@ function writeHomeHtml() {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>李敖索引</title>
+  <title>李敖思想与智慧</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body class="home-page">
   <main class="home-shell" aria-labelledby="homeTitle">
     <p class="kicker">大李敖全集 6.0</p>
-    <h1 id="homeTitle">李敖索引</h1>
+    <h1 id="homeTitle">李敖思想与智慧</h1>
     <p class="home-subtitle">从原文出发，把思想、人生经验和可检索的段落整理成入口清楚的资料库。</p>
 
     <nav class="home-actions" aria-label="站点入口">
@@ -40,7 +40,7 @@ function writeHomeHtml() {
         <strong>李敖思想索引</strong>
         <span>进入思想分类、检索和原文索引。</span>
       </a>
-      <a class="entry-card" href="https://wisdom.leeaoweb.com">
+      <a class="entry-card" href="https://lifewisdom.leeaoweb.com">
         <span class="entry-kicker">外部站点</span>
         <strong>李敖人生智慧</strong>
         <span>打开人生智慧专题站。</span>
@@ -160,6 +160,7 @@ a {
 
 .home-shell {
   width: min(920px, 100%);
+  text-align: center;
 }
 
 .home-shell h1 {
@@ -171,7 +172,7 @@ a {
 
 .home-subtitle {
   max-width: 680px;
-  margin: 18px 0 0;
+  margin: 18px auto 0;
   color: var(--muted);
   font-size: 18px;
 }
@@ -181,6 +182,7 @@ a {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 16px;
   margin-top: 44px;
+  text-align: left;
 }
 
 .entry-card {

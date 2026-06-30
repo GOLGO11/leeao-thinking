@@ -27,7 +27,7 @@ const currentBookFiles = [
   },
   {
     sequence: '006',
-    jsonPath: path.join(outputsDir, '006.李敖议坛哀思录', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '006.李敖议坛哀思录', '思想索引-校对轮.json'),
   },
 ];
 

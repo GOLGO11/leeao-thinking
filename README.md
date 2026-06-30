@@ -19,11 +19,11 @@
 | 003 | 我最难忘的事和人 | 校对轮 | 已校对 | 47 |
 | 004 | 李敖回忆录 | 校对轮 | 已校对 | 78 |
 | 005 | 李敖快意恩仇录 | 校对轮 | 已校对 | 70 |
-| 006 | 李敖议坛哀思录 | 提取轮 | 待校对 | 120 |
+| 006 | 李敖议坛哀思录 | 校对轮 | 已校对 | 105 |
 
 ## 当前分类
 
-当前 469 条索引统一使用 7 个原子分类：
+当前 454 条索引统一使用 7 个原子分类：
 
 - 写作
 - 方法
@@ -57,7 +57,11 @@
 - `outputs/006.李敖议坛哀思录/思想索引-提取轮.csv`
 - `outputs/006.李敖议坛哀思录/思想索引-提取轮.json`
 - `outputs/006.李敖议坛哀思录/思想索引-提取轮.md`
+- `outputs/006.李敖议坛哀思录/思想索引-校对轮.csv`
+- `outputs/006.李敖议坛哀思录/思想索引-校对轮.json`
+- `outputs/006.李敖议坛哀思录/思想索引-校对轮.md`
 - `outputs/006.李敖议坛哀思录/提取说明.md`
+- `outputs/006.李敖议坛哀思录/校对说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -85,6 +89,8 @@ node scripts\build-proofread-index-book5.mjs
 node scripts\validate-thinking-index.mjs outputs\005.李敖快意恩仇录\思想索引-校对轮.json
 node scripts\build-thinking-index-book6.mjs
 node scripts\validate-thinking-index.mjs outputs\006.李敖议坛哀思录\思想索引-提取轮.json
+node scripts\build-proofread-index-book6.mjs
+node scripts\validate-thinking-index.mjs outputs\006.李敖议坛哀思录\思想索引-校对轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs
