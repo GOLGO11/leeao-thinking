@@ -17,6 +17,18 @@ const currentBookFiles = [
     sequence: '003',
     jsonPath: path.join(outputsDir, '003.我最难忘的事和人', '思想索引-校对轮.json'),
   },
+  {
+    sequence: '004',
+    jsonPath: path.join(outputsDir, '004.李敖回忆录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '005',
+    jsonPath: path.join(outputsDir, '005.李敖快意恩仇录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '006',
+    jsonPath: path.join(outputsDir, '006.李敖议坛哀思录', '思想索引-提取轮.json'),
+  },
 ];
 
 function csvEscape(value) {

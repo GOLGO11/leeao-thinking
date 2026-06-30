@@ -3,47 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>李敖思想索引</title>
+  <title>李敖思想与智慧</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-  <div class="page-shell">
-    <header class="topbar">
-      <div class="title-block">
-        <p class="kicker">大李敖全集 6.0 / 思想索引</p>
-        <h1>李敖思想索引</h1>
-        <p class="subtitle">按书目与主题保存原文思想段落。标题用于检索，正文保留原文。</p>
-      </div>
-    </header>
+<body class="home-page">
+  <main class="home-shell" aria-labelledby="homeTitle">
+    <p class="kicker">大李敖全集 6.0</p>
+    <h1 id="homeTitle">李敖思想与智慧</h1>
+    <p class="home-subtitle">从原文出发，把思想、人生经验和可检索的段落整理成入口清楚的资料库。</p>
 
-    <main class="workspace">
-      <aside class="sidebar" aria-label="筛选">
-        <section class="control-panel">
-          <label class="search-label" for="searchInput">搜索</label>
-          <input id="searchInput" class="search-input" type="search" placeholder="标题、分类、关键词、原文">
-          <div class="stats" id="stats"></div>
-        </section>
-
-        <section class="filter-panel" aria-label="思想分类">
-          <h2>思想分类</h2>
-          <nav class="button-list" id="categoryList"></nav>
-        </section>
-      </aside>
-
-      <section class="content-area">
-        <div class="content-head">
-          <div>
-            <p class="eyebrow">当前结果</p>
-            <h2 id="resultTitle">全部条目</h2>
-          </div>
-          <button class="small-button" id="clearButton" type="button">清除</button>
-        </div>
-        <div class="record-list" id="recordList"></div>
-      </section>
-    </main>
-  </div>
-
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+    <nav class="home-actions" aria-label="站点入口">
+      <a class="entry-card primary" href="thinking.html">
+        <span class="entry-kicker">当前项目</span>
+        <strong>李敖思想索引</strong>
+        <span>进入思想分类、检索和原文索引。</span>
+      </a>
+      <a class="entry-card" href="https://wisdom.leeaoweb.com">
+        <span class="entry-kicker">外部站点</span>
+        <strong>李敖人生智慧</strong>
+        <span>打开人生智慧专题站。</span>
+      </a>
+    </nav>
+  </main>
 </body>
 </html>

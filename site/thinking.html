@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>李敖思想索引</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <div class="title-block">
+        <p class="kicker">大李敖全集 6.0 / 思想索引</p>
+        <h1>李敖思想索引</h1>
+        <p class="subtitle">按书目与主题保存原文思想段落。标题用于检索，正文保留原文。</p>
+      </div>
+      <a class="home-link" href="index.html">首页</a>
+    </header>
+
+    <main class="workspace">
+      <aside class="sidebar" aria-label="筛选">
+        <section class="control-panel">
+          <label class="search-label" for="searchInput">搜索</label>
+          <input id="searchInput" class="search-input" type="search" placeholder="标题、分类、关键词、原文">
+          <div class="stats" id="stats"></div>
+        </section>
+
+        <section class="filter-panel" aria-label="思想分类">
+          <h2>思想分类</h2>
+          <nav class="button-list" id="categoryList"></nav>
+        </section>
+      </aside>
+
+      <section class="content-area">
+        <div class="content-head">
+          <div>
+            <p class="eyebrow">当前结果</p>
+            <h2 id="resultTitle">全部条目</h2>
+          </div>
+          <button class="small-button" id="clearButton" type="button">清除</button>
+        </div>
+        <div class="record-list" id="recordList"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

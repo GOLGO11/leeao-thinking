@@ -4,10 +4,9 @@ import path from 'node:path';
 const rootDir = process.cwd();
 const sourcePath = path.join(rootDir, 'outputs', '思想索引总表.json');
 const siteDir = path.join(rootDir, 'site');
-const assetsDir = path.join(siteDir, 'assets');
 
 function ensureDirs() {
-  fs.mkdirSync(assetsDir, { recursive: true });
+  fs.mkdirSync(siteDir, { recursive: true });
 }
 
 function writeData(payload) {
@@ -20,7 +19,41 @@ function writeData(payload) {
   fs.writeFileSync(path.join(siteDir, 'data.js'), dataJs, 'utf8');
 }
 
-function writeHtml() {
+function writeHomeHtml() {
+  const html = `<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>李敖索引</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="home-page">
+  <main class="home-shell" aria-labelledby="homeTitle">
+    <p class="kicker">大李敖全集 6.0</p>
+    <h1 id="homeTitle">李敖索引</h1>
+    <p class="home-subtitle">从原文出发，把思想、人生经验和可检索的段落整理成入口清楚的资料库。</p>
+
+    <nav class="home-actions" aria-label="站点入口">
+      <a class="entry-card primary" href="thinking.html">
+        <span class="entry-kicker">当前项目</span>
+        <strong>李敖思想索引</strong>
+        <span>进入思想分类、检索和原文索引。</span>
+      </a>
+      <a class="entry-card" href="https://wisdom.leeaoweb.com">
+        <span class="entry-kicker">外部站点</span>
+        <strong>李敖人生智慧</strong>
+        <span>打开人生智慧专题站。</span>
+      </a>
+    </nav>
+  </main>
+</body>
+</html>
+`;
+  fs.writeFileSync(path.join(siteDir, 'index.html'), html, 'utf8');
+}
+
+function writeThinkingHtml() {
   const html = `<!doctype html>
 <html lang="zh-Hans">
 <head>
@@ -37,6 +70,7 @@ function writeHtml() {
         <h1>李敖思想索引</h1>
         <p class="subtitle">按书目与主题保存原文思想段落。标题用于检索，正文保留原文。</p>
       </div>
+      <a class="home-link" href="index.html">首页</a>
     </header>
 
     <main class="workspace">
@@ -71,7 +105,7 @@ function writeHtml() {
 </body>
 </html>
 `;
-  fs.writeFileSync(path.join(siteDir, 'index.html'), html, 'utf8');
+  fs.writeFileSync(path.join(siteDir, 'thinking.html'), html, 'utf8');
 }
 
 function writeCss() {
@@ -106,9 +140,85 @@ body {
   line-height: 1.65;
 }
 
+a,
 button,
 input {
   font: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 28px;
+}
+
+.home-shell {
+  width: min(920px, 100%);
+}
+
+.home-shell h1 {
+  margin: 0;
+  font-size: clamp(42px, 8vw, 76px);
+  line-height: 1.05;
+  font-weight: 800;
+}
+
+.home-subtitle {
+  max-width: 680px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.home-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 44px;
+}
+
+.entry-card {
+  display: grid;
+  gap: 8px;
+  min-height: 168px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.entry-card:hover,
+.entry-card:focus-visible {
+  border-color: rgba(34, 107, 97, 0.38);
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.entry-card.primary {
+  border-color: rgba(142, 47, 60, 0.35);
+}
+
+.entry-card strong {
+  display: block;
+  font-size: 28px;
+  line-height: 1.2;
+}
+
+.entry-card span:last-child {
+  color: var(--muted);
+}
+
+.entry-kicker {
+  color: var(--accent-2);
+  font-size: 13px;
+  font-weight: 700;
 }
 
 .page-shell {
@@ -117,12 +227,27 @@ input {
 }
 
 .topbar {
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
   align-items: end;
   padding: 38px 44px;
   border-bottom: 1px solid var(--line);
   background: var(--surface);
+}
+
+.home-link {
+  flex: 0 0 auto;
+  min-height: 36px;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+}
+
+.home-link:hover {
+  border-color: var(--accent-2);
+  color: var(--accent-2);
 }
 
 .kicker,
@@ -140,7 +265,7 @@ p {
   letter-spacing: 0;
 }
 
-h1 {
+.topbar h1 {
   margin: 0;
   font-size: 44px;
   line-height: 1.12;
@@ -396,11 +521,13 @@ mark {
 
 @media (max-width: 960px) {
   .topbar,
-  .workspace {
+  .workspace,
+  .home-actions {
     grid-template-columns: 1fr;
   }
 
   .topbar {
+    align-items: start;
     padding: 28px 24px;
   }
 
@@ -417,11 +544,31 @@ mark {
 }
 
 @media (max-width: 620px) {
-  h1 {
+  .home-page {
+    place-items: start stretch;
+    padding: 22px 16px;
+  }
+
+  .home-shell h1,
+  .topbar h1 {
     font-size: 34px;
   }
 
+  .home-actions {
+    margin-top: 30px;
+  }
+
+  .entry-card {
+    min-height: 142px;
+    padding: 18px;
+  }
+
+  .entry-card strong {
+    font-size: 24px;
+  }
+
   .topbar {
+    flex-direction: column;
     padding: 22px 16px;
   }
 
@@ -443,8 +590,10 @@ mark {
     padding: 16px;
   }
 
+  .home-link,
   .small-button {
     width: 100%;
+    text-align: center;
   }
 }
 `;
@@ -597,76 +746,6 @@ render();
   fs.writeFileSync(path.join(siteDir, 'app.js'), js, 'utf8');
 }
 
-function makeCoverBmp() {
-  const width = 520;
-  const height = 320;
-  const rowSize = Math.ceil((width * 3) / 4) * 4;
-  const pixelSize = rowSize * height;
-  const headerSize = 54;
-  const buffer = Buffer.alloc(headerSize + pixelSize);
-
-  buffer.write('BM', 0);
-  buffer.writeUInt32LE(headerSize + pixelSize, 2);
-  buffer.writeUInt32LE(headerSize, 10);
-  buffer.writeUInt32LE(40, 14);
-  buffer.writeInt32LE(width, 18);
-  buffer.writeInt32LE(height, 22);
-  buffer.writeUInt16LE(1, 26);
-  buffer.writeUInt16LE(24, 28);
-  buffer.writeUInt32LE(0, 30);
-  buffer.writeUInt32LE(pixelSize, 34);
-  buffer.writeInt32LE(2835, 38);
-  buffer.writeInt32LE(2835, 42);
-
-  const palette = {
-    page: [242, 244, 240],
-    ink: [31, 39, 35],
-    muted: [195, 204, 195],
-    red: [142, 47, 60],
-    green: [34, 107, 97],
-    gold: [165, 121, 46],
-    white: [255, 255, 255],
-  };
-
-  function setPixel(x, y, color) {
-    if (x < 0 || y < 0 || x >= width || y >= height) return;
-    const row = height - 1 - y;
-    const offset = headerSize + row * rowSize + x * 3;
-    buffer[offset] = color[2];
-    buffer[offset + 1] = color[1];
-    buffer[offset + 2] = color[0];
-  }
-
-  function rect(x, y, w, h, color) {
-    for (let yy = y; yy < y + h; yy += 1) {
-      for (let xx = x; xx < x + w; xx += 1) {
-        setPixel(xx, yy, color);
-      }
-    }
-  }
-
-  rect(0, 0, width, height, palette.page);
-  rect(28, 28, width - 56, height - 56, palette.white);
-  rect(28, 28, 6, height - 56, palette.red);
-  rect(48, 52, 86, 10, palette.ink);
-  rect(48, 78, 380, 3, palette.muted);
-  rect(48, 100, 330, 3, palette.muted);
-  rect(48, 122, 410, 3, palette.muted);
-  rect(48, 144, 280, 3, palette.muted);
-  rect(48, 190, 110, 38, palette.green);
-  rect(172, 190, 110, 38, palette.gold);
-  rect(296, 190, 110, 38, palette.red);
-  rect(48, 248, 360, 4, palette.ink);
-
-  for (let i = 0; i < 42; i += 1) {
-    const x = 52 + (i % 14) * 28;
-    const y = 268 + Math.floor(i / 14) * 14;
-    rect(x, y, 14, 3, i % 3 === 0 ? palette.green : palette.muted);
-  }
-
-  fs.writeFileSync(path.join(assetsDir, 'index-cover.bmp'), buffer);
-}
-
 ensureDirs();
 
 if (!fs.existsSync(sourcePath)) {
@@ -675,9 +754,9 @@ if (!fs.existsSync(sourcePath)) {
 
 const payload = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
 writeData(payload);
-writeHtml();
+writeHomeHtml();
+writeThinkingHtml();
 writeCss();
 writeAppJs();
-makeCoverBmp();
 
-console.log(`Built site at ${path.join(siteDir, 'index.html')}`);
+console.log(`Built site at ${path.join(siteDir, 'index.html')} and ${path.join(siteDir, 'thinking.html')}`);
