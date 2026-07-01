@@ -20,11 +20,24 @@
 | 004 | 李敖回忆录 | 校对轮 | 已校对 | 78 |
 | 005 | 李敖快意恩仇录 | 校对轮 | 已校对 | 70 |
 | 006 | 李敖议坛哀思录 | 校对轮 | 已校对 | 105 |
-| 007 | 李敖风流自传 | 提取轮 | 待校对 | 126 |
+| 007 | 李敖风流自传 | 校对轮 | 已校对 | 110 |
+| 008 | 李敖相关 | 校对轮 | 已校对 | 28 |
+| 009 | 传统下的独白 | 校对轮 | 已校对 | 57 |
+| 010 | 传统下的再白 | 校对轮 | 已校对 | 30 |
+| 011 | 独白下的传统 | 校对轮 | 已校对 | 66 |
+| 012 | 李敖文存 | 校对轮 | 已校对 | 79 |
+| 013 | 李敖文存二集 | 校对轮 | 已校对 | 80 |
+| 014 | 波波颂 | 校对轮 | 已校对 | 88 |
+| 015 | 李敖全集 | 校对轮 | 已校对 | 132 |
+| 016 | 教育与脸谱 | 校对轮 | 已校对 | 96 |
+| 017 | 文化论战丹火录 | 校对轮 | 已校对 | 40 |
+| 018 | 为中国思想趋向求答案 | 校对轮 | 已校对 | 76 |
+| 019 | 上下古今谈 | 校对轮 | 已校对 | 83 |
+| 020 | 世论新语 | 提取轮 | 待校对 | 123 |
 
 ## 当前分类
 
-当前 580 条索引统一使用 7 个原子分类：
+当前 1542 条索引统一使用 7 个原子分类：
 
 - 写作
 - 方法
@@ -66,7 +79,111 @@
 - `outputs/007.李敖风流自传/思想索引-提取轮.csv`
 - `outputs/007.李敖风流自传/思想索引-提取轮.json`
 - `outputs/007.李敖风流自传/思想索引-提取轮.md`
+- `outputs/007.李敖风流自传/思想索引-校对轮.csv`
+- `outputs/007.李敖风流自传/思想索引-校对轮.json`
+- `outputs/007.李敖风流自传/思想索引-校对轮.md`
 - `outputs/007.李敖风流自传/提取说明.md`
+- `outputs/007.李敖风流自传/校对说明.md`
+- `outputs/008.李敖相关/思想索引-提取轮.csv`
+- `outputs/008.李敖相关/思想索引-提取轮.json`
+- `outputs/008.李敖相关/思想索引-提取轮.md`
+- `outputs/008.李敖相关/思想索引-校对轮.csv`
+- `outputs/008.李敖相关/思想索引-校对轮.json`
+- `outputs/008.李敖相关/思想索引-校对轮.md`
+- `outputs/008.李敖相关/提取说明.md`
+- `outputs/008.李敖相关/校对说明.md`
+- `outputs/009.传统下的独白/思想索引-提取轮.csv`
+- `outputs/009.传统下的独白/思想索引-提取轮.json`
+- `outputs/009.传统下的独白/思想索引-提取轮.md`
+- `outputs/009.传统下的独白/思想索引-校对轮.csv`
+- `outputs/009.传统下的独白/思想索引-校对轮.json`
+- `outputs/009.传统下的独白/思想索引-校对轮.md`
+- `outputs/009.传统下的独白/提取说明.md`
+- `outputs/009.传统下的独白/校对说明.md`
+- `outputs/010.传统下的再白/思想索引-提取轮.csv`
+- `outputs/010.传统下的再白/思想索引-提取轮.json`
+- `outputs/010.传统下的再白/思想索引-提取轮.md`
+- `outputs/010.传统下的再白/思想索引-校对轮.csv`
+- `outputs/010.传统下的再白/思想索引-校对轮.json`
+- `outputs/010.传统下的再白/思想索引-校对轮.md`
+- `outputs/010.传统下的再白/提取说明.md`
+- `outputs/010.传统下的再白/校对说明.md`
+- `outputs/011.独白下的传统/思想索引-提取轮.csv`
+- `outputs/011.独白下的传统/思想索引-提取轮.json`
+- `outputs/011.独白下的传统/思想索引-提取轮.md`
+- `outputs/011.独白下的传统/思想索引-校对轮.csv`
+- `outputs/011.独白下的传统/思想索引-校对轮.json`
+- `outputs/011.独白下的传统/思想索引-校对轮.md`
+- `outputs/011.独白下的传统/提取说明.md`
+- `outputs/011.独白下的传统/校对说明.md`
+- `outputs/012.李敖文存/思想索引-提取轮.csv`
+- `outputs/012.李敖文存/思想索引-提取轮.json`
+- `outputs/012.李敖文存/思想索引-提取轮.md`
+- `outputs/012.李敖文存/思想索引-校对轮.csv`
+- `outputs/012.李敖文存/思想索引-校对轮.json`
+- `outputs/012.李敖文存/思想索引-校对轮.md`
+- `outputs/012.李敖文存/提取说明.md`
+- `outputs/012.李敖文存/校对说明.md`
+- `outputs/013.李敖文存二集/思想索引-提取轮.csv`
+- `outputs/013.李敖文存二集/思想索引-提取轮.json`
+- `outputs/013.李敖文存二集/思想索引-提取轮.md`
+- `outputs/013.李敖文存二集/思想索引-校对轮.csv`
+- `outputs/013.李敖文存二集/思想索引-校对轮.json`
+- `outputs/013.李敖文存二集/思想索引-校对轮.md`
+- `outputs/013.李敖文存二集/提取说明.md`
+- `outputs/013.李敖文存二集/校对说明.md`
+- `outputs/014.波波颂/思想索引-提取轮.csv`
+- `outputs/014.波波颂/思想索引-提取轮.json`
+- `outputs/014.波波颂/思想索引-提取轮.md`
+- `outputs/014.波波颂/思想索引-校对轮.csv`
+- `outputs/014.波波颂/思想索引-校对轮.json`
+- `outputs/014.波波颂/思想索引-校对轮.md`
+- `outputs/014.波波颂/提取说明.md`
+- `outputs/014.波波颂/校对说明.md`
+- `outputs/015.李敖全集/思想索引-提取轮.csv`
+- `outputs/015.李敖全集/思想索引-提取轮.json`
+- `outputs/015.李敖全集/思想索引-提取轮.md`
+- `outputs/015.李敖全集/思想索引-校对轮.csv`
+- `outputs/015.李敖全集/思想索引-校对轮.json`
+- `outputs/015.李敖全集/思想索引-校对轮.md`
+- `outputs/015.李敖全集/提取说明.md`
+- `outputs/015.李敖全集/校对说明.md`
+- `outputs/016.教育与脸谱/思想索引-提取轮.csv`
+- `outputs/016.教育与脸谱/思想索引-提取轮.json`
+- `outputs/016.教育与脸谱/思想索引-提取轮.md`
+- `outputs/016.教育与脸谱/思想索引-校对轮.csv`
+- `outputs/016.教育与脸谱/思想索引-校对轮.json`
+- `outputs/016.教育与脸谱/思想索引-校对轮.md`
+- `outputs/016.教育与脸谱/提取说明.md`
+- `outputs/016.教育与脸谱/校对说明.md`
+- `outputs/017.文化论战丹火录/思想索引-提取轮.csv`
+- `outputs/017.文化论战丹火录/思想索引-提取轮.json`
+- `outputs/017.文化论战丹火录/思想索引-提取轮.md`
+- `outputs/017.文化论战丹火录/思想索引-校对轮.csv`
+- `outputs/017.文化论战丹火录/思想索引-校对轮.json`
+- `outputs/017.文化论战丹火录/思想索引-校对轮.md`
+- `outputs/017.文化论战丹火录/提取说明.md`
+- `outputs/017.文化论战丹火录/校对说明.md`
+- `outputs/018.为中国思想趋向求答案/思想索引-提取轮.csv`
+- `outputs/018.为中国思想趋向求答案/思想索引-提取轮.json`
+- `outputs/018.为中国思想趋向求答案/思想索引-提取轮.md`
+- `outputs/018.为中国思想趋向求答案/思想索引-校对轮.csv`
+- `outputs/018.为中国思想趋向求答案/思想索引-校对轮.json`
+- `outputs/018.为中国思想趋向求答案/思想索引-校对轮.md`
+- `outputs/018.为中国思想趋向求答案/提取说明.md`
+- `outputs/018.为中国思想趋向求答案/校对说明.md`
+- `outputs/019.上下古今谈/思想索引-提取轮.csv`
+- `outputs/019.上下古今谈/思想索引-提取轮.json`
+- `outputs/019.上下古今谈/思想索引-提取轮.md`
+- `outputs/019.上下古今谈/思想索引-校对轮.csv`
+- `outputs/019.上下古今谈/思想索引-校对轮.json`
+- `outputs/019.上下古今谈/思想索引-校对轮.md`
+- `outputs/019.上下古今谈/提取说明.md`
+- `outputs/019.上下古今谈/校对说明.md`
+- `outputs/020.世论新语/思想索引-提取轮.csv`
+- `outputs/020.世论新语/思想索引-提取轮.json`
+- `outputs/020.世论新语/思想索引-提取轮.md`
+- `outputs/020.世论新语/提取说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -98,6 +215,58 @@ node scripts\build-proofread-index-book6.mjs
 node scripts\validate-thinking-index.mjs outputs\006.李敖议坛哀思录\思想索引-校对轮.json
 node scripts\build-thinking-index-book7.mjs
 node scripts\validate-thinking-index.mjs outputs\007.李敖风流自传\思想索引-提取轮.json
+node scripts\build-proofread-index-book7.mjs
+node scripts\validate-thinking-index.mjs outputs\007.李敖风流自传\思想索引-校对轮.json
+node scripts\build-thinking-index-book8.mjs
+node scripts\validate-thinking-index.mjs outputs\008.李敖相关\思想索引-提取轮.json
+node scripts\build-proofread-index-book8.mjs
+node scripts\validate-thinking-index.mjs outputs\008.李敖相关\思想索引-校对轮.json
+node scripts\build-thinking-index-book9.mjs
+node scripts\validate-thinking-index.mjs outputs\009.传统下的独白\思想索引-提取轮.json
+node scripts\build-proofread-index-book9.mjs
+node scripts\validate-thinking-index.mjs outputs\009.传统下的独白\思想索引-校对轮.json
+node scripts\build-thinking-index-book10.mjs
+node scripts\validate-thinking-index.mjs outputs\010.传统下的再白\思想索引-提取轮.json
+node scripts\build-proofread-index-book10.mjs
+node scripts\validate-thinking-index.mjs outputs\010.传统下的再白\思想索引-校对轮.json
+node scripts\build-thinking-index-book11.mjs
+node scripts\validate-thinking-index.mjs outputs\011.独白下的传统\思想索引-提取轮.json
+node scripts\build-proofread-index-book11.mjs
+node scripts\validate-thinking-index.mjs outputs\011.独白下的传统\思想索引-校对轮.json
+node scripts\build-thinking-index-book12.mjs
+node scripts\validate-thinking-index.mjs outputs\012.李敖文存\思想索引-提取轮.json
+node scripts\build-proofread-index-book12.mjs
+node scripts\validate-thinking-index.mjs outputs\012.李敖文存\思想索引-校对轮.json
+node scripts\build-thinking-index-book13.mjs
+node scripts\validate-thinking-index.mjs outputs\013.李敖文存二集\思想索引-提取轮.json
+node scripts\build-proofread-index-book13.mjs
+node scripts\validate-thinking-index.mjs outputs\013.李敖文存二集\思想索引-校对轮.json
+node scripts\build-thinking-index-book14.mjs
+node scripts\validate-thinking-index.mjs outputs\014.波波颂\思想索引-提取轮.json
+node scripts\build-proofread-index-book14.mjs
+node scripts\validate-thinking-index.mjs outputs\014.波波颂\思想索引-校对轮.json
+node scripts\build-thinking-index-book15.mjs
+node scripts\validate-thinking-index.mjs outputs\015.李敖全集\思想索引-提取轮.json
+node scripts\build-proofread-index-book15.mjs
+node scripts\validate-thinking-index.mjs outputs\015.李敖全集\思想索引-校对轮.json
+node scripts\build-thinking-index-book16.mjs
+node scripts\validate-thinking-index.mjs outputs\016.教育与脸谱\思想索引-提取轮.json
+node scripts\build-proofread-index-book16.mjs
+node scripts\validate-thinking-index.mjs outputs\016.教育与脸谱\思想索引-校对轮.json
+node scripts\build-thinking-index-book17.mjs
+node scripts\validate-thinking-index.mjs outputs\017.文化论战丹火录\思想索引-提取轮.json
+node scripts\build-proofread-index-book17.mjs
+node scripts\validate-thinking-index.mjs outputs\017.文化论战丹火录\思想索引-校对轮.json
+node scripts\build-thinking-index-book18.mjs
+node scripts\validate-thinking-index.mjs outputs\018.为中国思想趋向求答案\思想索引-提取轮.json
+node scripts\build-proofread-index-book18.mjs
+node scripts\validate-thinking-index.mjs outputs\018.为中国思想趋向求答案\思想索引-校对轮.json
+node scripts\build-thinking-index-book19.mjs
+node scripts\validate-thinking-index.mjs outputs\019.上下古今谈\思想索引-提取轮.json
+node scripts\build-proofread-index-book19.mjs
+node scripts\validate-thinking-index.mjs outputs\019.上下古今谈\思想索引-校对轮.json
+node scripts\build-thinking-index-book20.mjs
+node scripts\validate-thinking-index.mjs outputs\020.世论新语\思想索引-提取轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

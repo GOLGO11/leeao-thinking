@@ -31,7 +31,59 @@ const currentBookFiles = [
   },
   {
     sequence: '007',
-    jsonPath: path.join(outputsDir, '007.李敖风流自传', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '007.李敖风流自传', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '008',
+    jsonPath: path.join(outputsDir, '008.李敖相关', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '009',
+    jsonPath: path.join(outputsDir, '009.传统下的独白', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '010',
+    jsonPath: path.join(outputsDir, '010.传统下的再白', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '011',
+    jsonPath: path.join(outputsDir, '011.独白下的传统', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '012',
+    jsonPath: path.join(outputsDir, '012.李敖文存', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '013',
+    jsonPath: path.join(outputsDir, '013.李敖文存二集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '014',
+    jsonPath: path.join(outputsDir, '014.波波颂', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '015',
+    jsonPath: path.join(outputsDir, '015.李敖全集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '016',
+    jsonPath: path.join(outputsDir, '016.教育与脸谱', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '017',
+    jsonPath: path.join(outputsDir, '017.文化论战丹火录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '018',
+    jsonPath: path.join(outputsDir, '018.为中国思想趋向求答案', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '019',
+    jsonPath: path.join(outputsDir, '019.上下古今谈', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '020',
+    jsonPath: path.join(outputsDir, '020.世论新语', '思想索引-提取轮.json'),
   },
 ];
 
