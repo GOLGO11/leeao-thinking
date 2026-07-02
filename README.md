@@ -33,11 +33,19 @@
 | 017 | 文化论战丹火录 | 校对轮 | 已校对 | 40 |
 | 018 | 为中国思想趋向求答案 | 校对轮 | 已校对 | 76 |
 | 019 | 上下古今谈 | 校对轮 | 已校对 | 83 |
-| 020 | 世论新语 | 提取轮 | 待校对 | 123 |
+| 020 | 世论新语 | 校对轮 | 已校对 | 88 |
+| 021 | 求是新语 | 校对轮 | 已校对 | 89 |
+| 022 | 我是天安门 | 校对轮 | 已校对 | 73 |
+| 023 | 你是景福门 | 校对轮 | 已校对 | 107 |
+| 024 | 为自由招魂 | 校对轮 | 已校对 | 102 |
+| 025 | 你笨蛋，你笨蛋 | 校对轮 | 已校对 | 112 |
+| 026 | 我梦碎，所以我梦醒 | 校对轮 | 已校对 | 112 |
+| 027 | 李敖新刊 | 校对轮 | 已校对 | 98 |
+| 028 | 千秋万岁乌鸦求是合集 | 校对轮 | 已校对 | 137 |
 
 ## 当前分类
 
-当前 1542 条索引统一使用 7 个原子分类：
+当前 2337 条索引统一使用 7 个原子分类：
 
 - 写作
 - 方法
@@ -183,7 +191,75 @@
 - `outputs/020.世论新语/思想索引-提取轮.csv`
 - `outputs/020.世论新语/思想索引-提取轮.json`
 - `outputs/020.世论新语/思想索引-提取轮.md`
+- `outputs/020.世论新语/思想索引-校对轮.csv`
+- `outputs/020.世论新语/思想索引-校对轮.json`
+- `outputs/020.世论新语/思想索引-校对轮.md`
 - `outputs/020.世论新语/提取说明.md`
+- `outputs/020.世论新语/校对说明.md`
+- `outputs/021.求是新语/思想索引-提取轮.csv`
+- `outputs/021.求是新语/思想索引-提取轮.json`
+- `outputs/021.求是新语/思想索引-提取轮.md`
+- `outputs/021.求是新语/思想索引-校对轮.csv`
+- `outputs/021.求是新语/思想索引-校对轮.json`
+- `outputs/021.求是新语/思想索引-校对轮.md`
+- `outputs/021.求是新语/提取说明.md`
+- `outputs/021.求是新语/校对说明.md`
+- `outputs/022.我是天安门/思想索引-提取轮.csv`
+- `outputs/022.我是天安门/思想索引-提取轮.json`
+- `outputs/022.我是天安门/思想索引-提取轮.md`
+- `outputs/022.我是天安门/思想索引-校对轮.csv`
+- `outputs/022.我是天安门/思想索引-校对轮.json`
+- `outputs/022.我是天安门/思想索引-校对轮.md`
+- `outputs/022.我是天安门/提取说明.md`
+- `outputs/022.我是天安门/校对说明.md`
+- `outputs/023.你是景福门/思想索引-提取轮.csv`
+- `outputs/023.你是景福门/思想索引-提取轮.json`
+- `outputs/023.你是景福门/思想索引-提取轮.md`
+- `outputs/023.你是景福门/思想索引-校对轮.csv`
+- `outputs/023.你是景福门/思想索引-校对轮.json`
+- `outputs/023.你是景福门/思想索引-校对轮.md`
+- `outputs/023.你是景福门/提取说明.md`
+- `outputs/023.你是景福门/校对说明.md`
+- `outputs/024.为自由招魂/思想索引-提取轮.csv`
+- `outputs/024.为自由招魂/思想索引-提取轮.json`
+- `outputs/024.为自由招魂/思想索引-提取轮.md`
+- `outputs/024.为自由招魂/思想索引-校对轮.csv`
+- `outputs/024.为自由招魂/思想索引-校对轮.json`
+- `outputs/024.为自由招魂/思想索引-校对轮.md`
+- `outputs/024.为自由招魂/提取说明.md`
+- `outputs/024.为自由招魂/校对说明.md`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-提取轮.csv`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-提取轮.json`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-提取轮.md`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-校对轮.csv`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-校对轮.json`
+- `outputs/025.你笨蛋，你笨蛋/思想索引-校对轮.md`
+- `outputs/025.你笨蛋，你笨蛋/提取说明.md`
+- `outputs/025.你笨蛋，你笨蛋/校对说明.md`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-提取轮.csv`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-提取轮.json`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-提取轮.md`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-校对轮.csv`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-校对轮.json`
+- `outputs/026.我梦碎，所以我梦醒/思想索引-校对轮.md`
+- `outputs/026.我梦碎，所以我梦醒/提取说明.md`
+- `outputs/026.我梦碎，所以我梦醒/校对说明.md`
+- `outputs/027.李敖新刊/思想索引-提取轮.csv`
+- `outputs/027.李敖新刊/思想索引-提取轮.json`
+- `outputs/027.李敖新刊/思想索引-提取轮.md`
+- `outputs/027.李敖新刊/思想索引-校对轮.csv`
+- `outputs/027.李敖新刊/思想索引-校对轮.json`
+- `outputs/027.李敖新刊/思想索引-校对轮.md`
+- `outputs/027.李敖新刊/提取说明.md`
+- `outputs/027.李敖新刊/校对说明.md`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-提取轮.csv`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-提取轮.json`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-提取轮.md`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-校对轮.csv`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-校对轮.json`
+- `outputs/028.千秋万岁乌鸦求是合集/思想索引-校对轮.md`
+- `outputs/028.千秋万岁乌鸦求是合集/提取说明.md`
+- `outputs/028.千秋万岁乌鸦求是合集/校对说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -267,6 +343,40 @@ node scripts\build-proofread-index-book19.mjs
 node scripts\validate-thinking-index.mjs outputs\019.上下古今谈\思想索引-校对轮.json
 node scripts\build-thinking-index-book20.mjs
 node scripts\validate-thinking-index.mjs outputs\020.世论新语\思想索引-提取轮.json
+node scripts\build-proofread-index-book20.mjs
+node scripts\validate-thinking-index.mjs outputs\020.世论新语\思想索引-校对轮.json
+node scripts\build-thinking-index-book21.mjs
+node scripts\validate-thinking-index.mjs outputs\021.求是新语\思想索引-提取轮.json
+node scripts\build-proofread-index-book21.mjs
+node scripts\validate-thinking-index.mjs outputs\021.求是新语\思想索引-校对轮.json
+node scripts\build-thinking-index-book22.mjs
+node scripts\validate-thinking-index.mjs outputs\022.我是天安门\思想索引-提取轮.json
+node scripts\build-proofread-index-book22.mjs
+node scripts\validate-thinking-index.mjs outputs\022.我是天安门\思想索引-校对轮.json
+node scripts\build-thinking-index-book23.mjs
+node scripts\validate-thinking-index.mjs outputs\023.你是景福门\思想索引-提取轮.json
+node scripts\build-proofread-index-book23.mjs
+node scripts\validate-thinking-index.mjs outputs\023.你是景福门\思想索引-校对轮.json
+node scripts\build-thinking-index-book24.mjs
+node scripts\validate-thinking-index.mjs outputs\024.为自由招魂\思想索引-提取轮.json
+node scripts\build-proofread-index-book24.mjs
+node scripts\validate-thinking-index.mjs outputs\024.为自由招魂\思想索引-校对轮.json
+node scripts\build-thinking-index-book25.mjs
+node scripts\validate-thinking-index.mjs outputs\025.你笨蛋，你笨蛋\思想索引-提取轮.json
+node scripts\build-proofread-index-book25.mjs
+node scripts\validate-thinking-index.mjs outputs\025.你笨蛋，你笨蛋\思想索引-校对轮.json
+node scripts\build-thinking-index-book26.mjs
+node scripts\validate-thinking-index.mjs outputs\026.我梦碎，所以我梦醒\思想索引-提取轮.json
+node scripts\build-proofread-index-book26.mjs
+node scripts\validate-thinking-index.mjs outputs\026.我梦碎，所以我梦醒\思想索引-校对轮.json
+node scripts\build-thinking-index-book27.mjs
+node scripts\validate-thinking-index.mjs outputs\027.李敖新刊\思想索引-提取轮.json
+node scripts\build-proofread-index-book27.mjs
+node scripts\validate-thinking-index.mjs outputs\027.李敖新刊\思想索引-校对轮.json
+node scripts\build-thinking-index-book28.mjs
+node scripts\validate-thinking-index.mjs outputs\028.千秋万岁乌鸦求是合集\思想索引-提取轮.json
+node scripts\build-proofread-index-book28.mjs
+node scripts\validate-thinking-index.mjs outputs\028.千秋万岁乌鸦求是合集\思想索引-校对轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

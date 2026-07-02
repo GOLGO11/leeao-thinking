@@ -83,7 +83,39 @@ const currentBookFiles = [
   },
   {
     sequence: '020',
-    jsonPath: path.join(outputsDir, '020.世论新语', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '020.世论新语', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '021',
+    jsonPath: path.join(outputsDir, '021.求是新语', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '022',
+    jsonPath: path.join(outputsDir, '022.我是天安门', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '023',
+    jsonPath: path.join(outputsDir, '023.你是景福门', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '024',
+    jsonPath: path.join(outputsDir, '024.为自由招魂', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '025',
+    jsonPath: path.join(outputsDir, '025.你笨蛋，你笨蛋', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '026',
+    jsonPath: path.join(outputsDir, '026.我梦碎，所以我梦醒', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '027',
+    jsonPath: path.join(outputsDir, '027.李敖新刊', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '028',
+    jsonPath: path.join(outputsDir, '028.千秋万岁乌鸦求是合集', '思想索引-校对轮.json'),
   },
 ];
 
