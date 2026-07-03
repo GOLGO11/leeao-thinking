@@ -42,10 +42,19 @@
 | 026 | 我梦碎，所以我梦醒 | 校对轮 | 已校对 | 112 |
 | 027 | 李敖新刊 | 校对轮 | 已校对 | 98 |
 | 028 | 千秋万岁乌鸦求是合集 | 校对轮 | 已校对 | 137 |
+| 029 | 李敖杂文集 | 校对轮 | 已校对 | 33 |
+| 030 | 千秋万岁编外集 | 校对轮 | 已校对 | 56 |
+| 031 | 北京法源寺 | 校对轮 | 已校对 | 76 |
+| 032 | 上山·上山·爱 | 校对轮 | 已校对 | 85 |
+| 033 | 红色11 | 校对轮 | 已校对 | 77 |
+| 034 | 虚拟的十七岁 | 校对轮 | 已校对 | 65 |
+| 035 | 阳痿美国 | 校对轮 | 已校对 | 100 |
+| 036 | 第73烈士 | 校对轮 | 已校对 | 59 |
+| 037 | 爱情的秘密 | 提取轮 | 待校对 | 112 |
 
 ## 当前分类
 
-当前 2337 条索引统一使用 7 个原子分类：
+当前 3000 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -54,8 +63,9 @@
 - 文化
 - 政治
 - 法权
+- 情爱
 
-分类名只保留单一概念，不使用“与”或“和”的复合结构。具体改动见 `outputs/分类重构说明.md`。
+分类名只保留单一概念，不使用“与”或“和”的复合结构。“情爱”用于爱情、欲望、灵肉关系和亲密关系等材料；如果段落主旨是政治、法权、文化或写作，仍归入对应主类。具体改动见 `outputs/分类重构说明.md`。
 
 ## 当前输出
 
@@ -260,6 +270,74 @@
 - `outputs/028.千秋万岁乌鸦求是合集/思想索引-校对轮.md`
 - `outputs/028.千秋万岁乌鸦求是合集/提取说明.md`
 - `outputs/028.千秋万岁乌鸦求是合集/校对说明.md`
+- `outputs/029.李敖杂文集/思想索引-提取轮.csv`
+- `outputs/029.李敖杂文集/思想索引-提取轮.json`
+- `outputs/029.李敖杂文集/思想索引-提取轮.md`
+- `outputs/029.李敖杂文集/思想索引-校对轮.csv`
+- `outputs/029.李敖杂文集/思想索引-校对轮.json`
+- `outputs/029.李敖杂文集/思想索引-校对轮.md`
+- `outputs/029.李敖杂文集/提取说明.md`
+- `outputs/029.李敖杂文集/校对说明.md`
+- `outputs/030.千秋万岁编外集/思想索引-提取轮.csv`
+- `outputs/030.千秋万岁编外集/思想索引-提取轮.json`
+- `outputs/030.千秋万岁编外集/思想索引-提取轮.md`
+- `outputs/030.千秋万岁编外集/思想索引-校对轮.csv`
+- `outputs/030.千秋万岁编外集/思想索引-校对轮.json`
+- `outputs/030.千秋万岁编外集/思想索引-校对轮.md`
+- `outputs/030.千秋万岁编外集/提取说明.md`
+- `outputs/030.千秋万岁编外集/校对说明.md`
+- `outputs/031.北京法源寺/思想索引-提取轮.csv`
+- `outputs/031.北京法源寺/思想索引-提取轮.json`
+- `outputs/031.北京法源寺/思想索引-提取轮.md`
+- `outputs/031.北京法源寺/思想索引-校对轮.csv`
+- `outputs/031.北京法源寺/思想索引-校对轮.json`
+- `outputs/031.北京法源寺/思想索引-校对轮.md`
+- `outputs/031.北京法源寺/提取说明.md`
+- `outputs/031.北京法源寺/校对说明.md`
+- `outputs/032.上山·上山·爱/思想索引-提取轮.csv`
+- `outputs/032.上山·上山·爱/思想索引-提取轮.json`
+- `outputs/032.上山·上山·爱/思想索引-提取轮.md`
+- `outputs/032.上山·上山·爱/思想索引-校对轮.csv`
+- `outputs/032.上山·上山·爱/思想索引-校对轮.json`
+- `outputs/032.上山·上山·爱/思想索引-校对轮.md`
+- `outputs/032.上山·上山·爱/提取说明.md`
+- `outputs/032.上山·上山·爱/校对说明.md`
+- `outputs/033.红色11/思想索引-提取轮.csv`
+- `outputs/033.红色11/思想索引-提取轮.json`
+- `outputs/033.红色11/思想索引-提取轮.md`
+- `outputs/033.红色11/思想索引-校对轮.csv`
+- `outputs/033.红色11/思想索引-校对轮.json`
+- `outputs/033.红色11/思想索引-校对轮.md`
+- `outputs/033.红色11/提取说明.md`
+- `outputs/033.红色11/校对说明.md`
+- `outputs/034.虚拟的十七岁/思想索引-提取轮.csv`
+- `outputs/034.虚拟的十七岁/思想索引-提取轮.json`
+- `outputs/034.虚拟的十七岁/思想索引-提取轮.md`
+- `outputs/034.虚拟的十七岁/思想索引-校对轮.csv`
+- `outputs/034.虚拟的十七岁/思想索引-校对轮.json`
+- `outputs/034.虚拟的十七岁/思想索引-校对轮.md`
+- `outputs/034.虚拟的十七岁/提取说明.md`
+- `outputs/034.虚拟的十七岁/校对说明.md`
+- `outputs/035.阳痿美国/思想索引-提取轮.csv`
+- `outputs/035.阳痿美国/思想索引-提取轮.json`
+- `outputs/035.阳痿美国/思想索引-提取轮.md`
+- `outputs/035.阳痿美国/思想索引-校对轮.csv`
+- `outputs/035.阳痿美国/思想索引-校对轮.json`
+- `outputs/035.阳痿美国/思想索引-校对轮.md`
+- `outputs/035.阳痿美国/提取说明.md`
+- `outputs/035.阳痿美国/校对说明.md`
+- `outputs/036.第73烈士/思想索引-提取轮.csv`
+- `outputs/036.第73烈士/思想索引-提取轮.json`
+- `outputs/036.第73烈士/思想索引-提取轮.md`
+- `outputs/036.第73烈士/思想索引-校对轮.csv`
+- `outputs/036.第73烈士/思想索引-校对轮.json`
+- `outputs/036.第73烈士/思想索引-校对轮.md`
+- `outputs/036.第73烈士/提取说明.md`
+- `outputs/036.第73烈士/校对说明.md`
+- `outputs/037.爱情的秘密/思想索引-提取轮.csv`
+- `outputs/037.爱情的秘密/思想索引-提取轮.json`
+- `outputs/037.爱情的秘密/思想索引-提取轮.md`
+- `outputs/037.爱情的秘密/提取说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -377,6 +455,40 @@ node scripts\build-thinking-index-book28.mjs
 node scripts\validate-thinking-index.mjs outputs\028.千秋万岁乌鸦求是合集\思想索引-提取轮.json
 node scripts\build-proofread-index-book28.mjs
 node scripts\validate-thinking-index.mjs outputs\028.千秋万岁乌鸦求是合集\思想索引-校对轮.json
+node scripts\build-thinking-index-book29.mjs
+node scripts\validate-thinking-index.mjs outputs\029.李敖杂文集\思想索引-提取轮.json
+node scripts\build-proofread-index-book29.mjs
+node scripts\validate-thinking-index.mjs outputs\029.李敖杂文集\思想索引-校对轮.json
+node scripts\build-thinking-index-book30.mjs
+node scripts\validate-thinking-index.mjs outputs\030.千秋万岁编外集\思想索引-提取轮.json
+node scripts\build-proofread-index-book30.mjs
+node scripts\validate-thinking-index.mjs outputs\030.千秋万岁编外集\思想索引-校对轮.json
+node scripts\build-thinking-index-book31.mjs
+node scripts\validate-thinking-index.mjs outputs\031.北京法源寺\思想索引-提取轮.json
+node scripts\build-proofread-index-book31.mjs
+node scripts\validate-thinking-index.mjs outputs\031.北京法源寺\思想索引-校对轮.json
+node scripts\build-thinking-index-book32.mjs
+node scripts\validate-thinking-index.mjs outputs\032.上山·上山·爱\思想索引-提取轮.json
+node scripts\build-proofread-index-book32.mjs
+node scripts\validate-thinking-index.mjs outputs\032.上山·上山·爱\思想索引-校对轮.json
+node scripts\build-thinking-index-book33.mjs
+node scripts\validate-thinking-index.mjs outputs\033.红色11\思想索引-提取轮.json
+node scripts\build-proofread-index-book33.mjs
+node scripts\validate-thinking-index.mjs outputs\033.红色11\思想索引-校对轮.json
+node scripts\build-thinking-index-book34.mjs
+node scripts\validate-thinking-index.mjs outputs\034.虚拟的十七岁\思想索引-提取轮.json
+node scripts\build-proofread-index-book34.mjs
+node scripts\validate-thinking-index.mjs outputs\034.虚拟的十七岁\思想索引-校对轮.json
+node scripts\build-thinking-index-book35.mjs
+node scripts\validate-thinking-index.mjs outputs\035.阳痿美国\思想索引-提取轮.json
+node scripts\build-proofread-index-book35.mjs
+node scripts\validate-thinking-index.mjs outputs\035.阳痿美国\思想索引-校对轮.json
+node scripts\build-thinking-index-book36.mjs
+node scripts\validate-thinking-index.mjs outputs\036.第73烈士\思想索引-提取轮.json
+node scripts\build-proofread-index-book36.mjs
+node scripts\validate-thinking-index.mjs outputs\036.第73烈士\思想索引-校对轮.json
+node scripts\build-thinking-index-book37.mjs
+node scripts\validate-thinking-index.mjs outputs\037.爱情的秘密\思想索引-提取轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

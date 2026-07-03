@@ -117,6 +117,42 @@ const currentBookFiles = [
     sequence: '028',
     jsonPath: path.join(outputsDir, '028.千秋万岁乌鸦求是合集', '思想索引-校对轮.json'),
   },
+  {
+    sequence: '029',
+    jsonPath: path.join(outputsDir, '029.李敖杂文集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '030',
+    jsonPath: path.join(outputsDir, '030.千秋万岁编外集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '031',
+    jsonPath: path.join(outputsDir, '031.北京法源寺', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '032',
+    jsonPath: path.join(outputsDir, '032.上山·上山·爱', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '033',
+    jsonPath: path.join(outputsDir, '033.红色11', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '034',
+    jsonPath: path.join(outputsDir, '034.虚拟的十七岁', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '035',
+    jsonPath: path.join(outputsDir, '035.阳痿美国', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '036',
+    jsonPath: path.join(outputsDir, '036.第73烈士', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '037',
+    jsonPath: path.join(outputsDir, '037.爱情的秘密', '思想索引-提取轮.json'),
+  },
 ];
 
 function csvEscape(value) {
