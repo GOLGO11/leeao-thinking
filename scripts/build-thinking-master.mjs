@@ -151,7 +151,63 @@ const currentBookFiles = [
   },
   {
     sequence: '037',
-    jsonPath: path.join(outputsDir, '037.爱情的秘密', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '037.爱情的秘密', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '038',
+    jsonPath: path.join(outputsDir, '038.李敖的情诗', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '039',
+    jsonPath: path.join(outputsDir, '039.李语录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '040',
+    jsonPath: path.join(outputsDir, '040.李敖语录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '041',
+    jsonPath: path.join(outputsDir, '041.虽千万人，李敖往矣', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '042',
+    jsonPath: path.join(outputsDir, '042.挑战李敖——敖语录', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '043',
+    jsonPath: path.join(outputsDir, '043.大学札记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '044',
+    jsonPath: path.join(outputsDir, '044.早年日记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '045',
+    jsonPath: path.join(outputsDir, '045.大学后期日记甲集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '046',
+    jsonPath: path.join(outputsDir, '046.大学后期日记乙集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '047',
+    jsonPath: path.join(outputsDir, '047.一个预备军官的日记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '048',
+    jsonPath: path.join(outputsDir, '048.李敖秘藏日记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '049',
+    jsonPath: path.join(outputsDir, '049.李敖札记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '050',
+    jsonPath: path.join(outputsDir, '050.李敖五五日记', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '051',
+    jsonPath: path.join(outputsDir, '051.李敖随写录前集', '思想索引-提取轮.json'),
   },
 ];
 
