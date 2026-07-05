@@ -64,11 +64,21 @@
 | 048 | 李敖秘藏日记 | 校对轮 | 已校对 | 75 |
 | 049 | 李敖札记 | 校对轮 | 已校对 | 84 |
 | 050 | 李敖五五日记 | 校对轮 | 已校对 | 41 |
-| 051 | 李敖随写录前集 | 提取轮 | 待校对 | 128 |
+| 051 | 李敖随写录前集 | 校对轮 | 已校对 | 96 |
+| 052 | 李敖随写录后集 | 校对轮 | 已校对 | 76 |
+| 053 | 李敖报刊集 | 校对轮 | 已校对 | 67 |
+| 054 | 李敖书序集 | 校对轮 | 已校对 | 65 |
+| 055 | 李敖书序集续集 | 校对轮 | 已校对 | 70 |
+| 056 | 李敖对话录 | 校对轮 | 已校对 | 117 |
+| 057 | 李敖访谈录1990-2018 | 校对轮 | 已校对 | 201 |
+| 058 | 李敖情书集 | 校对轮 | 已校对 | 80 |
+| 059 | 李敖书信集 | 校对轮 | 已校对 | 140 |
+| 060 | 李敖书翰集 | 校对轮 | 已校对 | 91 |
+| 061 | 李敖书简集 | 提取轮 | 待校对 | 85 |
 
 ## 当前分类
 
-当前 4334 条索引统一使用 8 个原子分类：
+当前 5294 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -463,7 +473,87 @@
 - `outputs/051.李敖随写录前集/思想索引-提取轮.csv`
 - `outputs/051.李敖随写录前集/思想索引-提取轮.json`
 - `outputs/051.李敖随写录前集/思想索引-提取轮.md`
+- `outputs/051.李敖随写录前集/思想索引-校对轮.csv`
+- `outputs/051.李敖随写录前集/思想索引-校对轮.json`
+- `outputs/051.李敖随写录前集/思想索引-校对轮.md`
 - `outputs/051.李敖随写录前集/提取说明.md`
+- `outputs/051.李敖随写录前集/校对说明.md`
+- `outputs/052.李敖随写录后集/思想索引-提取轮.csv`
+- `outputs/052.李敖随写录后集/思想索引-提取轮.json`
+- `outputs/052.李敖随写录后集/思想索引-提取轮.md`
+- `outputs/052.李敖随写录后集/思想索引-校对轮.csv`
+- `outputs/052.李敖随写录后集/思想索引-校对轮.json`
+- `outputs/052.李敖随写录后集/思想索引-校对轮.md`
+- `outputs/052.李敖随写录后集/提取说明.md`
+- `outputs/052.李敖随写录后集/校对说明.md`
+- `outputs/053.李敖报刊集/思想索引-提取轮.csv`
+- `outputs/053.李敖报刊集/思想索引-提取轮.json`
+- `outputs/053.李敖报刊集/思想索引-提取轮.md`
+- `outputs/053.李敖报刊集/思想索引-校对轮.csv`
+- `outputs/053.李敖报刊集/思想索引-校对轮.json`
+- `outputs/053.李敖报刊集/思想索引-校对轮.md`
+- `outputs/053.李敖报刊集/提取说明.md`
+- `outputs/053.李敖报刊集/校对说明.md`
+- `outputs/054.李敖书序集/思想索引-提取轮.csv`
+- `outputs/054.李敖书序集/思想索引-提取轮.json`
+- `outputs/054.李敖书序集/思想索引-提取轮.md`
+- `outputs/054.李敖书序集/思想索引-校对轮.csv`
+- `outputs/054.李敖书序集/思想索引-校对轮.json`
+- `outputs/054.李敖书序集/思想索引-校对轮.md`
+- `outputs/054.李敖书序集/提取说明.md`
+- `outputs/054.李敖书序集/校对说明.md`
+- `outputs/055.李敖书序集续集/思想索引-提取轮.csv`
+- `outputs/055.李敖书序集续集/思想索引-提取轮.json`
+- `outputs/055.李敖书序集续集/思想索引-提取轮.md`
+- `outputs/055.李敖书序集续集/思想索引-校对轮.csv`
+- `outputs/055.李敖书序集续集/思想索引-校对轮.json`
+- `outputs/055.李敖书序集续集/思想索引-校对轮.md`
+- `outputs/055.李敖书序集续集/提取说明.md`
+- `outputs/055.李敖书序集续集/校对说明.md`
+- `outputs/056.李敖对话录/思想索引-提取轮.csv`
+- `outputs/056.李敖对话录/思想索引-提取轮.json`
+- `outputs/056.李敖对话录/思想索引-提取轮.md`
+- `outputs/056.李敖对话录/思想索引-校对轮.csv`
+- `outputs/056.李敖对话录/思想索引-校对轮.json`
+- `outputs/056.李敖对话录/思想索引-校对轮.md`
+- `outputs/056.李敖对话录/提取说明.md`
+- `outputs/056.李敖对话录/校对说明.md`
+- `outputs/057.李敖访谈录1990-2018/思想索引-提取轮.csv`
+- `outputs/057.李敖访谈录1990-2018/思想索引-提取轮.json`
+- `outputs/057.李敖访谈录1990-2018/思想索引-提取轮.md`
+- `outputs/057.李敖访谈录1990-2018/思想索引-校对轮.csv`
+- `outputs/057.李敖访谈录1990-2018/思想索引-校对轮.json`
+- `outputs/057.李敖访谈录1990-2018/思想索引-校对轮.md`
+- `outputs/057.李敖访谈录1990-2018/提取说明.md`
+- `outputs/057.李敖访谈录1990-2018/校对说明.md`
+- `outputs/058.李敖情书集/思想索引-提取轮.csv`
+- `outputs/058.李敖情书集/思想索引-提取轮.json`
+- `outputs/058.李敖情书集/思想索引-提取轮.md`
+- `outputs/058.李敖情书集/思想索引-校对轮.csv`
+- `outputs/058.李敖情书集/思想索引-校对轮.json`
+- `outputs/058.李敖情书集/思想索引-校对轮.md`
+- `outputs/058.李敖情书集/提取说明.md`
+- `outputs/058.李敖情书集/校对说明.md`
+- `outputs/059.李敖书信集/思想索引-提取轮.csv`
+- `outputs/059.李敖书信集/思想索引-提取轮.json`
+- `outputs/059.李敖书信集/思想索引-提取轮.md`
+- `outputs/059.李敖书信集/思想索引-校对轮.csv`
+- `outputs/059.李敖书信集/思想索引-校对轮.json`
+- `outputs/059.李敖书信集/思想索引-校对轮.md`
+- `outputs/059.李敖书信集/提取说明.md`
+- `outputs/059.李敖书信集/校对说明.md`
+- `outputs/060.李敖书翰集/思想索引-提取轮.csv`
+- `outputs/060.李敖书翰集/思想索引-提取轮.json`
+- `outputs/060.李敖书翰集/思想索引-提取轮.md`
+- `outputs/060.李敖书翰集/思想索引-校对轮.csv`
+- `outputs/060.李敖书翰集/思想索引-校对轮.json`
+- `outputs/060.李敖书翰集/思想索引-校对轮.md`
+- `outputs/060.李敖书翰集/提取说明.md`
+- `outputs/060.李敖书翰集/校对说明.md`
+- `outputs/061.李敖书简集/思想索引-提取轮.csv`
+- `outputs/061.李敖书简集/思想索引-提取轮.json`
+- `outputs/061.李敖书简集/思想索引-提取轮.md`
+- `outputs/061.李敖书简集/提取说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -671,6 +761,46 @@ node scripts\build-proofread-index-book50.mjs
 node scripts\validate-thinking-index.mjs outputs\050.李敖五五日记\思想索引-校对轮.json
 node scripts\build-thinking-index-book51.mjs
 node scripts\validate-thinking-index.mjs outputs\051.李敖随写录前集\思想索引-提取轮.json
+node scripts\build-proofread-index-book51.mjs
+node scripts\validate-thinking-index.mjs outputs\051.李敖随写录前集\思想索引-校对轮.json
+node scripts\build-thinking-index-book52.mjs
+node scripts\validate-thinking-index.mjs outputs\052.李敖随写录后集\思想索引-提取轮.json
+node scripts\build-proofread-index-book52.mjs
+node scripts\validate-thinking-index.mjs outputs\052.李敖随写录后集\思想索引-校对轮.json
+node scripts\build-thinking-index-book53.mjs
+node scripts\validate-thinking-index.mjs outputs\053.李敖报刊集\思想索引-提取轮.json
+node scripts\build-proofread-index-book53.mjs
+node scripts\validate-thinking-index.mjs outputs\053.李敖报刊集\思想索引-校对轮.json
+node scripts\build-thinking-index-book54.mjs
+node scripts\validate-thinking-index.mjs outputs\054.李敖书序集\思想索引-提取轮.json
+node scripts\build-proofread-index-book54.mjs
+node scripts\validate-thinking-index.mjs outputs\054.李敖书序集\思想索引-校对轮.json
+node scripts\build-thinking-index-book55.mjs
+node scripts\validate-thinking-index.mjs outputs\055.李敖书序集续集\思想索引-提取轮.json
+node scripts\build-proofread-index-book55.mjs
+node scripts\validate-thinking-index.mjs outputs\055.李敖书序集续集\思想索引-校对轮.json
+node scripts\build-thinking-index-book56.mjs
+node scripts\validate-thinking-index.mjs outputs\056.李敖对话录\思想索引-提取轮.json
+node scripts\build-proofread-index-book56.mjs
+node scripts\validate-thinking-index.mjs outputs\056.李敖对话录\思想索引-校对轮.json
+node scripts\build-thinking-index-book57.mjs
+node scripts\validate-thinking-index.mjs outputs\057.李敖访谈录1990-2018\思想索引-提取轮.json
+node scripts\build-proofread-index-book57.mjs
+node scripts\validate-thinking-index.mjs outputs\057.李敖访谈录1990-2018\思想索引-校对轮.json
+node scripts\build-thinking-index-book58.mjs
+node scripts\validate-thinking-index.mjs outputs\058.李敖情书集\思想索引-提取轮.json
+node scripts\build-proofread-index-book58.mjs
+node scripts\validate-thinking-index.mjs outputs\058.李敖情书集\思想索引-校对轮.json
+node scripts\build-thinking-index-book59.mjs
+node scripts\validate-thinking-index.mjs outputs\059.李敖书信集\思想索引-提取轮.json
+node scripts\build-proofread-index-book59.mjs
+node scripts\validate-thinking-index.mjs outputs\059.李敖书信集\思想索引-校对轮.json
+node scripts\build-thinking-index-book60.mjs
+node scripts\validate-thinking-index.mjs outputs\060.李敖书翰集\思想索引-提取轮.json
+node scripts\build-proofread-index-book60.mjs
+node scripts\validate-thinking-index.mjs outputs\060.李敖书翰集\思想索引-校对轮.json
+node scripts\build-thinking-index-book61.mjs
+node scripts\validate-thinking-index.mjs outputs\061.李敖书简集\思想索引-提取轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs
