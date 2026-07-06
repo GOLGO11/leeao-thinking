@@ -74,11 +74,23 @@
 | 058 | 李敖情书集 | 校对轮 | 已校对 | 80 |
 | 059 | 李敖书信集 | 校对轮 | 已校对 | 140 |
 | 060 | 李敖书翰集 | 校对轮 | 已校对 | 91 |
-| 061 | 李敖书简集 | 提取轮 | 待校对 | 85 |
+| 061 | 李敖书简集 | 校对轮 | 已校对 | 74 |
+| 062 | 李敖书札集 | 校对轮 | 已校对 | 78 |
+| 063 | 李敖书笺集 | 校对轮 | 已校对 | 72 |
+| 064 | 李敖书牍集 | 校对轮 | 已校对 | 69 |
+| 065 | 李敖书函集 | 校对轮 | 已校对 | 85 |
+| 066 | 李敖书启集 | 校对轮 | 已校对 | 80 |
+| 067 | 坐牢家爸爸给女儿的八十封信 | 校对轮 | 已校对 | 84 |
+| 068 | 给马戈的五十封信 | 校对轮 | 已校对 | 63 |
+| 069 | 李敖写的信 | 校对轮 | 已校对 | 64 |
+| 070 | 历史与人像 | 校对轮 | 已校对 | 75 |
+| 071 | 读史指南 | 校对轮 | 已校对 | 65 |
+| 072 | 为历史拨云 | 校对轮 | 已校对 | 139 |
+| 073 | 要把金针度与人 | 提取轮 | 待校对 | 207 |
 
 ## 当前分类
 
-当前 5294 条索引统一使用 8 个原子分类：
+当前 6364 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -553,7 +565,103 @@
 - `outputs/061.李敖书简集/思想索引-提取轮.csv`
 - `outputs/061.李敖书简集/思想索引-提取轮.json`
 - `outputs/061.李敖书简集/思想索引-提取轮.md`
+- `outputs/061.李敖书简集/思想索引-校对轮.csv`
+- `outputs/061.李敖书简集/思想索引-校对轮.json`
+- `outputs/061.李敖书简集/思想索引-校对轮.md`
 - `outputs/061.李敖书简集/提取说明.md`
+- `outputs/061.李敖书简集/校对说明.md`
+- `outputs/062.李敖书札集/思想索引-提取轮.csv`
+- `outputs/062.李敖书札集/思想索引-提取轮.json`
+- `outputs/062.李敖书札集/思想索引-提取轮.md`
+- `outputs/062.李敖书札集/思想索引-校对轮.csv`
+- `outputs/062.李敖书札集/思想索引-校对轮.json`
+- `outputs/062.李敖书札集/思想索引-校对轮.md`
+- `outputs/062.李敖书札集/提取说明.md`
+- `outputs/062.李敖书札集/校对说明.md`
+- `outputs/063.李敖书笺集/思想索引-提取轮.csv`
+- `outputs/063.李敖书笺集/思想索引-提取轮.json`
+- `outputs/063.李敖书笺集/思想索引-提取轮.md`
+- `outputs/063.李敖书笺集/思想索引-校对轮.csv`
+- `outputs/063.李敖书笺集/思想索引-校对轮.json`
+- `outputs/063.李敖书笺集/思想索引-校对轮.md`
+- `outputs/063.李敖书笺集/提取说明.md`
+- `outputs/063.李敖书笺集/校对说明.md`
+- `outputs/064.李敖书牍集/思想索引-提取轮.csv`
+- `outputs/064.李敖书牍集/思想索引-提取轮.json`
+- `outputs/064.李敖书牍集/思想索引-提取轮.md`
+- `outputs/064.李敖书牍集/思想索引-校对轮.csv`
+- `outputs/064.李敖书牍集/思想索引-校对轮.json`
+- `outputs/064.李敖书牍集/思想索引-校对轮.md`
+- `outputs/064.李敖书牍集/提取说明.md`
+- `outputs/064.李敖书牍集/校对说明.md`
+- `outputs/065.李敖书函集/思想索引-提取轮.csv`
+- `outputs/065.李敖书函集/思想索引-提取轮.json`
+- `outputs/065.李敖书函集/思想索引-提取轮.md`
+- `outputs/065.李敖书函集/思想索引-校对轮.csv`
+- `outputs/065.李敖书函集/思想索引-校对轮.json`
+- `outputs/065.李敖书函集/思想索引-校对轮.md`
+- `outputs/065.李敖书函集/提取说明.md`
+- `outputs/065.李敖书函集/校对说明.md`
+- `outputs/066.李敖书启集/思想索引-提取轮.csv`
+- `outputs/066.李敖书启集/思想索引-提取轮.json`
+- `outputs/066.李敖书启集/思想索引-提取轮.md`
+- `outputs/066.李敖书启集/思想索引-校对轮.csv`
+- `outputs/066.李敖书启集/思想索引-校对轮.json`
+- `outputs/066.李敖书启集/思想索引-校对轮.md`
+- `outputs/066.李敖书启集/提取说明.md`
+- `outputs/066.李敖书启集/校对说明.md`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-提取轮.csv`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-提取轮.json`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-提取轮.md`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-校对轮.csv`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-校对轮.json`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/思想索引-校对轮.md`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/提取说明.md`
+- `outputs/067.坐牢家爸爸给女儿的八十封信/校对说明.md`
+- `outputs/068.给马戈的五十封信/思想索引-提取轮.csv`
+- `outputs/068.给马戈的五十封信/思想索引-提取轮.json`
+- `outputs/068.给马戈的五十封信/思想索引-提取轮.md`
+- `outputs/068.给马戈的五十封信/思想索引-校对轮.csv`
+- `outputs/068.给马戈的五十封信/思想索引-校对轮.json`
+- `outputs/068.给马戈的五十封信/思想索引-校对轮.md`
+- `outputs/068.给马戈的五十封信/提取说明.md`
+- `outputs/068.给马戈的五十封信/校对说明.md`
+- `outputs/069.李敖写的信/思想索引-提取轮.csv`
+- `outputs/069.李敖写的信/思想索引-提取轮.json`
+- `outputs/069.李敖写的信/思想索引-提取轮.md`
+- `outputs/069.李敖写的信/思想索引-校对轮.csv`
+- `outputs/069.李敖写的信/思想索引-校对轮.json`
+- `outputs/069.李敖写的信/思想索引-校对轮.md`
+- `outputs/069.李敖写的信/提取说明.md`
+- `outputs/069.李敖写的信/校对说明.md`
+- `outputs/070.历史与人像/思想索引-提取轮.csv`
+- `outputs/070.历史与人像/思想索引-提取轮.json`
+- `outputs/070.历史与人像/思想索引-提取轮.md`
+- `outputs/070.历史与人像/思想索引-校对轮.csv`
+- `outputs/070.历史与人像/思想索引-校对轮.json`
+- `outputs/070.历史与人像/思想索引-校对轮.md`
+- `outputs/070.历史与人像/提取说明.md`
+- `outputs/070.历史与人像/校对说明.md`
+- `outputs/071.读史指南/思想索引-提取轮.csv`
+- `outputs/071.读史指南/思想索引-提取轮.json`
+- `outputs/071.读史指南/思想索引-提取轮.md`
+- `outputs/071.读史指南/思想索引-校对轮.csv`
+- `outputs/071.读史指南/思想索引-校对轮.json`
+- `outputs/071.读史指南/思想索引-校对轮.md`
+- `outputs/071.读史指南/提取说明.md`
+- `outputs/071.读史指南/校对说明.md`
+- `outputs/072.为历史拨云/思想索引-提取轮.csv`
+- `outputs/072.为历史拨云/思想索引-提取轮.json`
+- `outputs/072.为历史拨云/思想索引-提取轮.md`
+- `outputs/072.为历史拨云/思想索引-校对轮.csv`
+- `outputs/072.为历史拨云/思想索引-校对轮.json`
+- `outputs/072.为历史拨云/思想索引-校对轮.md`
+- `outputs/072.为历史拨云/提取说明.md`
+- `outputs/072.为历史拨云/校对说明.md`
+- `outputs/073.要把金针度与人/思想索引-提取轮.csv`
+- `outputs/073.要把金针度与人/思想索引-提取轮.json`
+- `outputs/073.要把金针度与人/思想索引-提取轮.md`
+- `outputs/073.要把金针度与人/提取说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -801,6 +909,54 @@ node scripts\build-proofread-index-book60.mjs
 node scripts\validate-thinking-index.mjs outputs\060.李敖书翰集\思想索引-校对轮.json
 node scripts\build-thinking-index-book61.mjs
 node scripts\validate-thinking-index.mjs outputs\061.李敖书简集\思想索引-提取轮.json
+node scripts\build-proofread-index-book61.mjs
+node scripts\validate-thinking-index.mjs outputs\061.李敖书简集\思想索引-校对轮.json
+node scripts\build-thinking-index-book62.mjs
+node scripts\validate-thinking-index.mjs outputs\062.李敖书札集\思想索引-提取轮.json
+node scripts\build-proofread-index-book62.mjs
+node scripts\validate-thinking-index.mjs outputs\062.李敖书札集\思想索引-校对轮.json
+node scripts\build-thinking-index-book63.mjs
+node scripts\validate-thinking-index.mjs outputs\063.李敖书笺集\思想索引-提取轮.json
+node scripts\build-proofread-index-book63.mjs
+node scripts\validate-thinking-index.mjs outputs\063.李敖书笺集\思想索引-校对轮.json
+node scripts\build-thinking-index-book64.mjs
+node scripts\validate-thinking-index.mjs outputs\064.李敖书牍集\思想索引-提取轮.json
+node scripts\build-proofread-index-book64.mjs
+node scripts\validate-thinking-index.mjs outputs\064.李敖书牍集\思想索引-校对轮.json
+node scripts\build-thinking-index-book65.mjs
+node scripts\validate-thinking-index.mjs outputs\065.李敖书函集\思想索引-提取轮.json
+node scripts\build-proofread-index-book65.mjs
+node scripts\validate-thinking-index.mjs outputs\065.李敖书函集\思想索引-校对轮.json
+node scripts\build-thinking-index-book66.mjs
+node scripts\validate-thinking-index.mjs outputs\066.李敖书启集\思想索引-提取轮.json
+node scripts\build-proofread-index-book66.mjs
+node scripts\validate-thinking-index.mjs outputs\066.李敖书启集\思想索引-校对轮.json
+node scripts\build-thinking-index-book67.mjs
+node scripts\validate-thinking-index.mjs outputs\067.坐牢家爸爸给女儿的八十封信\思想索引-提取轮.json
+node scripts\build-proofread-index-book67.mjs
+node scripts\validate-thinking-index.mjs outputs\067.坐牢家爸爸给女儿的八十封信\思想索引-校对轮.json
+node scripts\build-thinking-index-book68.mjs
+node scripts\validate-thinking-index.mjs outputs\068.给马戈的五十封信\思想索引-提取轮.json
+node scripts\build-proofread-index-book68.mjs
+node scripts\validate-thinking-index.mjs outputs\068.给马戈的五十封信\思想索引-校对轮.json
+node scripts\build-thinking-index-book69.mjs
+node scripts\validate-thinking-index.mjs outputs\069.李敖写的信\思想索引-提取轮.json
+node scripts\build-proofread-index-book69.mjs
+node scripts\validate-thinking-index.mjs outputs\069.李敖写的信\思想索引-校对轮.json
+node scripts\build-thinking-index-book70.mjs
+node scripts\validate-thinking-index.mjs outputs\070.历史与人像\思想索引-提取轮.json
+node scripts\build-proofread-index-book70.mjs
+node scripts\validate-thinking-index.mjs outputs\070.历史与人像\思想索引-校对轮.json
+node scripts\build-thinking-index-book71.mjs
+node scripts\validate-thinking-index.mjs outputs\071.读史指南\思想索引-提取轮.json
+node scripts\build-proofread-index-book71.mjs
+node scripts\validate-thinking-index.mjs outputs\071.读史指南\思想索引-校对轮.json
+node scripts\build-thinking-index-book72.mjs
+node scripts\validate-thinking-index.mjs outputs\072.为历史拨云\思想索引-提取轮.json
+node scripts\build-proofread-index-book72.mjs
+node scripts\validate-thinking-index.mjs outputs\072.为历史拨云\思想索引-校对轮.json
+node scripts\build-thinking-index-book73.mjs
+node scripts\validate-thinking-index.mjs outputs\073.要把金针度与人\思想索引-提取轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

@@ -247,7 +247,55 @@ const currentBookFiles = [
   },
   {
     sequence: '061',
-    jsonPath: path.join(outputsDir, '061.李敖书简集', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '061.李敖书简集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '062',
+    jsonPath: path.join(outputsDir, '062.李敖书札集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '063',
+    jsonPath: path.join(outputsDir, '063.李敖书笺集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '064',
+    jsonPath: path.join(outputsDir, '064.李敖书牍集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '065',
+    jsonPath: path.join(outputsDir, '065.李敖书函集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '066',
+    jsonPath: path.join(outputsDir, '066.李敖书启集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '067',
+    jsonPath: path.join(outputsDir, '067.坐牢家爸爸给女儿的八十封信', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '068',
+    jsonPath: path.join(outputsDir, '068.给马戈的五十封信', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '069',
+    jsonPath: path.join(outputsDir, '069.李敖写的信', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '070',
+    jsonPath: path.join(outputsDir, '070.历史与人像', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '071',
+    jsonPath: path.join(outputsDir, '071.读史指南', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '072',
+    jsonPath: path.join(outputsDir, '072.为历史拨云', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '073',
+    jsonPath: path.join(outputsDir, '073.要把金针度与人', '思想索引-提取轮.json'),
   },
 ];
 
