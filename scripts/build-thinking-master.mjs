@@ -295,7 +295,47 @@ const currentBookFiles = [
   },
   {
     sequence: '073',
-    jsonPath: path.join(outputsDir, '073.要把金针度与人', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '073.要把金针度与人', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '074',
+    jsonPath: path.join(outputsDir, '074.中国性研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '075',
+    jsonPath: path.join(outputsDir, '075.中国命研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '076',
+    jsonPath: path.join(outputsDir, '076.中国近代史新论', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '077',
+    jsonPath: path.join(outputsDir, '077.中国现代史正论', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '078',
+    jsonPath: path.join(outputsDir, '078.中国现代史定论', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '079',
+    jsonPath: path.join(outputsDir, '079.中国迷信新研', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '080',
+    jsonPath: path.join(outputsDir, '080.中国艺术新研', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '081',
+    jsonPath: path.join(outputsDir, '081.李敖笑傲江湖', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '082',
+    jsonPath: path.join(outputsDir, '082.挑战李敖', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '083',
+    jsonPath: path.join(outputsDir, '083.李敖秘密书房', '思想索引-提取轮.json'),
   },
 ];
 

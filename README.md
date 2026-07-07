@@ -86,11 +86,21 @@
 | 070 | 历史与人像 | 校对轮 | 已校对 | 75 |
 | 071 | 读史指南 | 校对轮 | 已校对 | 65 |
 | 072 | 为历史拨云 | 校对轮 | 已校对 | 139 |
-| 073 | 要把金针度与人 | 提取轮 | 待校对 | 207 |
+| 073 | 要把金针度与人 | 校对轮 | 已校对 | 197 |
+| 074 | 中国性研究 | 校对轮 | 已校对 | 167 |
+| 075 | 中国命研究 | 校对轮 | 已校对 | 188 |
+| 076 | 中国近代史新论 | 校对轮 | 已校对 | 135 |
+| 077 | 中国现代史正论 | 校对轮 | 已校对 | 120 |
+| 078 | 中国现代史定论 | 校对轮 | 已校对 | 83 |
+| 079 | 中国迷信新研 | 校对轮 | 已校对 | 100 |
+| 080 | 中国艺术新研 | 校对轮 | 已校对 | 84 |
+| 081 | 李敖笑傲江湖 | 校对轮 | 已校对 | 142 |
+| 082 | 挑战李敖 | 校对轮 | 已校对 | 93 |
+| 083 | 李敖秘密书房 | 提取轮 | 待校对 | 127 |
 
 ## 当前分类
 
-当前 6364 条索引统一使用 8 个原子分类：
+当前 7593 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -661,7 +671,87 @@
 - `outputs/073.要把金针度与人/思想索引-提取轮.csv`
 - `outputs/073.要把金针度与人/思想索引-提取轮.json`
 - `outputs/073.要把金针度与人/思想索引-提取轮.md`
+- `outputs/073.要把金针度与人/思想索引-校对轮.csv`
+- `outputs/073.要把金针度与人/思想索引-校对轮.json`
+- `outputs/073.要把金针度与人/思想索引-校对轮.md`
 - `outputs/073.要把金针度与人/提取说明.md`
+- `outputs/073.要把金针度与人/校对说明.md`
+- `outputs/074.中国性研究/思想索引-提取轮.csv`
+- `outputs/074.中国性研究/思想索引-提取轮.json`
+- `outputs/074.中国性研究/思想索引-提取轮.md`
+- `outputs/074.中国性研究/思想索引-校对轮.csv`
+- `outputs/074.中国性研究/思想索引-校对轮.json`
+- `outputs/074.中国性研究/思想索引-校对轮.md`
+- `outputs/074.中国性研究/提取说明.md`
+- `outputs/074.中国性研究/校对说明.md`
+- `outputs/075.中国命研究/思想索引-提取轮.csv`
+- `outputs/075.中国命研究/思想索引-提取轮.json`
+- `outputs/075.中国命研究/思想索引-提取轮.md`
+- `outputs/075.中国命研究/思想索引-校对轮.csv`
+- `outputs/075.中国命研究/思想索引-校对轮.json`
+- `outputs/075.中国命研究/思想索引-校对轮.md`
+- `outputs/075.中国命研究/提取说明.md`
+- `outputs/075.中国命研究/校对说明.md`
+- `outputs/076.中国近代史新论/思想索引-提取轮.csv`
+- `outputs/076.中国近代史新论/思想索引-提取轮.json`
+- `outputs/076.中国近代史新论/思想索引-提取轮.md`
+- `outputs/076.中国近代史新论/思想索引-校对轮.csv`
+- `outputs/076.中国近代史新论/思想索引-校对轮.json`
+- `outputs/076.中国近代史新论/思想索引-校对轮.md`
+- `outputs/076.中国近代史新论/提取说明.md`
+- `outputs/076.中国近代史新论/校对说明.md`
+- `outputs/077.中国现代史正论/思想索引-提取轮.csv`
+- `outputs/077.中国现代史正论/思想索引-提取轮.json`
+- `outputs/077.中国现代史正论/思想索引-提取轮.md`
+- `outputs/077.中国现代史正论/思想索引-校对轮.csv`
+- `outputs/077.中国现代史正论/思想索引-校对轮.json`
+- `outputs/077.中国现代史正论/思想索引-校对轮.md`
+- `outputs/077.中国现代史正论/提取说明.md`
+- `outputs/077.中国现代史正论/校对说明.md`
+- `outputs/078.中国现代史定论/思想索引-提取轮.csv`
+- `outputs/078.中国现代史定论/思想索引-提取轮.json`
+- `outputs/078.中国现代史定论/思想索引-提取轮.md`
+- `outputs/078.中国现代史定论/思想索引-校对轮.csv`
+- `outputs/078.中国现代史定论/思想索引-校对轮.json`
+- `outputs/078.中国现代史定论/思想索引-校对轮.md`
+- `outputs/078.中国现代史定论/提取说明.md`
+- `outputs/078.中国现代史定论/校对说明.md`
+- `outputs/079.中国迷信新研/思想索引-提取轮.csv`
+- `outputs/079.中国迷信新研/思想索引-提取轮.json`
+- `outputs/079.中国迷信新研/思想索引-提取轮.md`
+- `outputs/079.中国迷信新研/思想索引-校对轮.csv`
+- `outputs/079.中国迷信新研/思想索引-校对轮.json`
+- `outputs/079.中国迷信新研/思想索引-校对轮.md`
+- `outputs/079.中国迷信新研/提取说明.md`
+- `outputs/079.中国迷信新研/校对说明.md`
+- `outputs/080.中国艺术新研/思想索引-提取轮.csv`
+- `outputs/080.中国艺术新研/思想索引-提取轮.json`
+- `outputs/080.中国艺术新研/思想索引-提取轮.md`
+- `outputs/080.中国艺术新研/思想索引-校对轮.csv`
+- `outputs/080.中国艺术新研/思想索引-校对轮.json`
+- `outputs/080.中国艺术新研/思想索引-校对轮.md`
+- `outputs/080.中国艺术新研/提取说明.md`
+- `outputs/080.中国艺术新研/校对说明.md`
+- `outputs/081.李敖笑傲江湖/思想索引-提取轮.csv`
+- `outputs/081.李敖笑傲江湖/思想索引-提取轮.json`
+- `outputs/081.李敖笑傲江湖/思想索引-提取轮.md`
+- `outputs/081.李敖笑傲江湖/思想索引-校对轮.csv`
+- `outputs/081.李敖笑傲江湖/思想索引-校对轮.json`
+- `outputs/081.李敖笑傲江湖/思想索引-校对轮.md`
+- `outputs/081.李敖笑傲江湖/提取说明.md`
+- `outputs/081.李敖笑傲江湖/校对说明.md`
+- `outputs/082.挑战李敖/思想索引-提取轮.csv`
+- `outputs/082.挑战李敖/思想索引-提取轮.json`
+- `outputs/082.挑战李敖/思想索引-提取轮.md`
+- `outputs/082.挑战李敖/思想索引-校对轮.csv`
+- `outputs/082.挑战李敖/思想索引-校对轮.json`
+- `outputs/082.挑战李敖/思想索引-校对轮.md`
+- `outputs/082.挑战李敖/提取说明.md`
+- `outputs/082.挑战李敖/校对说明.md`
+- `outputs/083.李敖秘密书房/思想索引-提取轮.csv`
+- `outputs/083.李敖秘密书房/思想索引-提取轮.json`
+- `outputs/083.李敖秘密书房/思想索引-提取轮.md`
+- `outputs/083.李敖秘密书房/提取说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -957,6 +1047,46 @@ node scripts\build-proofread-index-book72.mjs
 node scripts\validate-thinking-index.mjs outputs\072.为历史拨云\思想索引-校对轮.json
 node scripts\build-thinking-index-book73.mjs
 node scripts\validate-thinking-index.mjs outputs\073.要把金针度与人\思想索引-提取轮.json
+node scripts\build-proofread-index-book73.mjs
+node scripts\validate-thinking-index.mjs outputs\073.要把金针度与人\思想索引-校对轮.json
+node scripts\build-thinking-index-book74.mjs
+node scripts\validate-thinking-index.mjs outputs\074.中国性研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book74.mjs
+node scripts\validate-thinking-index.mjs outputs\074.中国性研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book75.mjs
+node scripts\validate-thinking-index.mjs outputs\075.中国命研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book75.mjs
+node scripts\validate-thinking-index.mjs outputs\075.中国命研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book76.mjs
+node scripts\validate-thinking-index.mjs outputs\076.中国近代史新论\思想索引-提取轮.json
+node scripts\build-proofread-index-book76.mjs
+node scripts\validate-thinking-index.mjs outputs\076.中国近代史新论\思想索引-校对轮.json
+node scripts\build-thinking-index-book77.mjs
+node scripts\validate-thinking-index.mjs outputs\077.中国现代史正论\思想索引-提取轮.json
+node scripts\build-proofread-index-book77.mjs
+node scripts\validate-thinking-index.mjs outputs\077.中国现代史正论\思想索引-校对轮.json
+node scripts\build-thinking-index-book78.mjs
+node scripts\validate-thinking-index.mjs outputs\078.中国现代史定论\思想索引-提取轮.json
+node scripts\build-proofread-index-book78.mjs
+node scripts\validate-thinking-index.mjs outputs\078.中国现代史定论\思想索引-校对轮.json
+node scripts\build-thinking-index-book79.mjs
+node scripts\validate-thinking-index.mjs outputs\079.中国迷信新研\思想索引-提取轮.json
+node scripts\build-proofread-index-book79.mjs
+node scripts\validate-thinking-index.mjs outputs\079.中国迷信新研\思想索引-校对轮.json
+node scripts\build-thinking-index-book80.mjs
+node scripts\validate-thinking-index.mjs outputs\080.中国艺术新研\思想索引-提取轮.json
+node scripts\build-proofread-index-book80.mjs
+node scripts\validate-thinking-index.mjs outputs\080.中国艺术新研\思想索引-校对轮.json
+node scripts\build-thinking-index-book81.mjs
+node scripts\validate-thinking-index.mjs outputs\081.李敖笑傲江湖\思想索引-提取轮.json
+node scripts\build-proofread-index-book81.mjs
+node scripts\validate-thinking-index.mjs outputs\081.李敖笑傲江湖\思想索引-校对轮.json
+node scripts\build-thinking-index-book82.mjs
+node scripts\validate-thinking-index.mjs outputs\082.挑战李敖\思想索引-提取轮.json
+node scripts\build-proofread-index-book82.mjs
+node scripts\validate-thinking-index.mjs outputs\082.挑战李敖\思想索引-校对轮.json
+node scripts\build-thinking-index-book83.mjs
+node scripts\validate-thinking-index.mjs outputs\083.李敖秘密书房\思想索引-提取轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs
