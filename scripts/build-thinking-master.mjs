@@ -335,7 +335,63 @@ const currentBookFiles = [
   },
   {
     sequence: '083',
-    jsonPath: path.join(outputsDir, '083.李敖秘密书房', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '083.李敖秘密书房', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '084',
+    jsonPath: path.join(outputsDir, '084.李敖颠倒众生', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '085',
+    jsonPath: path.join(outputsDir, '085.李敖Talk秀', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '086',
+    jsonPath: path.join(outputsDir, '086.李敖大哥大', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '087',
+    jsonPath: path.join(outputsDir, '087.李敖有话说', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '088',
+    jsonPath: path.join(outputsDir, '088.笑敖年代', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '089',
+    jsonPath: path.join(outputsDir, '089.李敖语妙天下', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '090',
+    jsonPath: path.join(outputsDir, '090.笑傲六十年·有话说李敖', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '091',
+    jsonPath: path.join(outputsDir, '091.李敖演讲集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '092',
+    jsonPath: path.join(outputsDir, '092.李敖政论综艺集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '093',
+    jsonPath: path.join(outputsDir, '093.快意还乡——李敖神州文化之旅', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '094',
+    jsonPath: path.join(outputsDir, '094.李敖放电集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '095',
+    jsonPath: path.join(outputsDir, '095.李敖发电集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '096',
+    jsonPath: path.join(outputsDir, '096.李敖送电集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '097',
+    jsonPath: path.join(outputsDir, '097.李敖来电集', '思想索引-提取轮.json'),
   },
 ];
 
