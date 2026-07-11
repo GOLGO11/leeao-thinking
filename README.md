@@ -110,11 +110,44 @@
 | 094 | 李敖放电集 | 校对轮 | 已校对 | 112 |
 | 095 | 李敖发电集 | 校对轮 | 已校对 | 210 |
 | 096 | 李敖送电集 | 校对轮 | 已校对 | 192 |
-| 097 | 李敖来电集 | 提取轮 | 待校对 | 172 |
+| 097 | 李敖来电集 | 校对轮 | 已校对 | 133 |
+| 098 | 李敖通电集 | 校对轮 | 已校对 | 130 |
+| 099 | 胡适研究 | 校对轮 | 已校对 | 97 |
+| 100 | 胡适评传 | 校对轮 | 已校对 | 100 |
+| 101 | 胡适与我 | 校对轮 | 已校对 | 109 |
+| 102 | 孙逸仙和中国西化医学 | 校对轮 | 已校对 | 98 |
+| 103 | 孙中山研究 | 校对轮 | 已校对 | 105 |
+| 104 | 李登辉的真面目 | 校对轮 | 已校对 | 103 |
+| 105 | 李登辉的假面具 | 校对轮 | 已校对 | 104 |
+| 106 | 郑南榕研究 | 校对轮 | 已校对 | 107 |
+| 107 | 陈水扁的真面目 | 校对轮 | 已校对 | 54 |
+| 108 | 李远哲的真面目 | 校对轮 | 已校对 | 55 |
+| 109 | 你不知道的彭明敏 | 校对轮 | 已校对 | 96 |
+| 110 | 为文学开窗 | 校对轮 | 已校对 | 114 |
+| 111 | 丑陋的中国人研究 | 校对轮 | 已校对 | 125 |
+| 112 | 闽变研究与文星讼案 | 校对轮 | 已校对 | 67 |
+| 113 | 大江大海骗了你 | 校对轮 | 已校对 | 145 |
+| 114 | 蒋介石研究 | 校对轮 | 已校对 | 92 |
+| 115 | 蒋介石研究续集 | 校对轮 | 已校对 | 100 |
+| 116 | 蒋介石研究三集 | 校对轮 | 已校对 | 79 |
+| 117 | 蒋介石研究四集 | 校对轮 | 已校对 | 75 |
+| 118 | 蒋介石研究五集 | 校对轮 | 已校对 | 96 |
+| 119 | 蒋介石研究六集 | 校对轮 | 已校对 | 114 |
+| 120 | 蒋介石的真面目 | 校对轮 | 已校对 | 155 |
+| 121 | 蒋介石评传 | 校对轮 | 已校对 | 109 |
+| 122 | 蒋经国研究 | 校对轮 | 已校对 | 50 |
+| 123 | 论定蒋经国 | 校对轮 | 已校对 | 37 |
+| 124 | 蒋家臭史 | 校对轮 | 已校对 | 31 |
+| 125 | 李敖论人物 | 校对轮 | 已校对 | 81 |
+| 126 | 国民党研究 | 校对轮 | 已校对 | 102 |
+| 127 | 国民党研究续集 | 校对轮 | 已校对 | 109 |
+| 128 | 国民党臭史 | 校对轮 | 已校对 | 154 |
+| 129 | 老贼臭史 | 校对轮 | 已校对 | 96 |
+| 130 | 给国民党难看 | 校对轮 | 已校对 | 154 |
 
 ## 当前分类
 
-当前 10090 条索引统一使用 8 个原子分类：
+当前 13294 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -878,6 +911,170 @@
 - `outputs/097.李敖来电集/思想索引-提取轮.json`
 - `outputs/097.李敖来电集/思想索引-提取轮.md`
 - `outputs/097.李敖来电集/提取说明.md`
+- `outputs/097.李敖来电集/思想索引-校对轮.csv`
+- `outputs/097.李敖来电集/思想索引-校对轮.json`
+- `outputs/097.李敖来电集/思想索引-校对轮.md`
+- `outputs/097.李敖来电集/校对说明.md`
+- `outputs/098.李敖通电集/思想索引-提取轮.csv`
+- `outputs/098.李敖通电集/思想索引-提取轮.json`
+- `outputs/098.李敖通电集/思想索引-提取轮.md`
+- `outputs/098.李敖通电集/提取说明.md`
+- `outputs/098.李敖通电集/思想索引-校对轮.csv`
+- `outputs/098.李敖通电集/思想索引-校对轮.json`
+- `outputs/098.李敖通电集/思想索引-校对轮.md`
+- `outputs/098.李敖通电集/校对说明.md`
+- `outputs/099.胡适研究/思想索引-提取轮.csv`
+- `outputs/099.胡适研究/思想索引-提取轮.json`
+- `outputs/099.胡适研究/思想索引-提取轮.md`
+- `outputs/099.胡适研究/提取说明.md`
+- `outputs/099.胡适研究/思想索引-校对轮.csv`
+- `outputs/099.胡适研究/思想索引-校对轮.json`
+- `outputs/099.胡适研究/思想索引-校对轮.md`
+- `outputs/099.胡适研究/校对说明.md`
+- `outputs/100.胡适评传/思想索引-提取轮.csv`
+- `outputs/100.胡适评传/思想索引-提取轮.json`
+- `outputs/100.胡适评传/思想索引-提取轮.md`
+- `outputs/100.胡适评传/提取说明.md`
+- `outputs/100.胡适评传/思想索引-校对轮.csv`
+- `outputs/100.胡适评传/思想索引-校对轮.json`
+- `outputs/100.胡适评传/思想索引-校对轮.md`
+- `outputs/100.胡适评传/校对说明.md`
+- `outputs/101.胡适与我/思想索引-提取轮.csv`
+- `outputs/101.胡适与我/思想索引-提取轮.json`
+- `outputs/101.胡适与我/思想索引-提取轮.md`
+- `outputs/101.胡适与我/提取说明.md`
+- `outputs/101.胡适与我/思想索引-校对轮.csv`
+- `outputs/101.胡适与我/思想索引-校对轮.json`
+- `outputs/101.胡适与我/思想索引-校对轮.md`
+- `outputs/101.胡适与我/校对说明.md`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-提取轮.csv`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-提取轮.json`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-提取轮.md`
+- `outputs/102.孙逸仙和中国西化医学/提取说明.md`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-校对轮.csv`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-校对轮.json`
+- `outputs/102.孙逸仙和中国西化医学/思想索引-校对轮.md`
+- `outputs/102.孙逸仙和中国西化医学/校对说明.md`
+- `outputs/103.孙中山研究/思想索引-提取轮.csv`
+- `outputs/103.孙中山研究/思想索引-提取轮.json`
+- `outputs/103.孙中山研究/思想索引-提取轮.md`
+- `outputs/103.孙中山研究/提取说明.md`
+- `outputs/103.孙中山研究/思想索引-校对轮.csv`
+- `outputs/103.孙中山研究/思想索引-校对轮.json`
+- `outputs/103.孙中山研究/思想索引-校对轮.md`
+- `outputs/103.孙中山研究/校对说明.md`
+- `outputs/104.李登辉的真面目/思想索引-提取轮.csv`
+- `outputs/104.李登辉的真面目/思想索引-提取轮.json`
+- `outputs/104.李登辉的真面目/思想索引-提取轮.md`
+- `outputs/104.李登辉的真面目/提取说明.md`
+- `outputs/104.李登辉的真面目/思想索引-校对轮.csv`
+- `outputs/104.李登辉的真面目/思想索引-校对轮.json`
+- `outputs/104.李登辉的真面目/思想索引-校对轮.md`
+- `outputs/104.李登辉的真面目/校对说明.md`
+- `outputs/105.李登辉的假面具/思想索引-提取轮.csv`
+- `outputs/105.李登辉的假面具/思想索引-提取轮.json`
+- `outputs/105.李登辉的假面具/思想索引-提取轮.md`
+- `outputs/105.李登辉的假面具/提取说明.md`
+- `outputs/105.李登辉的假面具/思想索引-校对轮.csv`
+- `outputs/105.李登辉的假面具/思想索引-校对轮.json`
+- `outputs/105.李登辉的假面具/思想索引-校对轮.md`
+- `outputs/105.李登辉的假面具/校对说明.md`
+- `outputs/106.郑南榕研究/思想索引-提取轮.csv`
+- `outputs/106.郑南榕研究/思想索引-提取轮.json`
+- `outputs/106.郑南榕研究/思想索引-提取轮.md`
+- `outputs/106.郑南榕研究/提取说明.md`
+- `outputs/106.郑南榕研究/思想索引-校对轮.csv`
+- `outputs/106.郑南榕研究/思想索引-校对轮.json`
+- `outputs/106.郑南榕研究/思想索引-校对轮.md`
+- `outputs/106.郑南榕研究/校对说明.md`
+- `outputs/107.陈水扁的真面目/思想索引-提取轮.csv`
+- `outputs/107.陈水扁的真面目/思想索引-提取轮.json`
+- `outputs/107.陈水扁的真面目/思想索引-提取轮.md`
+- `outputs/107.陈水扁的真面目/提取说明.md`
+- `outputs/107.陈水扁的真面目/思想索引-校对轮.csv`
+- `outputs/107.陈水扁的真面目/思想索引-校对轮.json`
+- `outputs/107.陈水扁的真面目/思想索引-校对轮.md`
+- `outputs/107.陈水扁的真面目/校对说明.md`
+- `outputs/108.李远哲的真面目/思想索引-提取轮.csv`
+- `outputs/108.李远哲的真面目/思想索引-提取轮.json`
+- `outputs/108.李远哲的真面目/思想索引-提取轮.md`
+- `outputs/108.李远哲的真面目/提取说明.md`
+- `outputs/108.李远哲的真面目/思想索引-校对轮.csv`
+- `outputs/108.李远哲的真面目/思想索引-校对轮.json`
+- `outputs/108.李远哲的真面目/思想索引-校对轮.md`
+- `outputs/108.李远哲的真面目/校对说明.md`
+- `outputs/109.你不知道的彭明敏/思想索引-提取轮.csv`
+- `outputs/109.你不知道的彭明敏/思想索引-提取轮.json`
+- `outputs/109.你不知道的彭明敏/思想索引-提取轮.md`
+- `outputs/109.你不知道的彭明敏/提取说明.md`
+- `outputs/109.你不知道的彭明敏/思想索引-校对轮.csv`
+- `outputs/109.你不知道的彭明敏/思想索引-校对轮.json`
+- `outputs/109.你不知道的彭明敏/思想索引-校对轮.md`
+- `outputs/109.你不知道的彭明敏/校对说明.md`
+- `outputs/110.为文学开窗/思想索引-提取轮.csv`
+- `outputs/110.为文学开窗/思想索引-提取轮.json`
+- `outputs/110.为文学开窗/思想索引-提取轮.md`
+- `outputs/110.为文学开窗/提取说明.md`
+- `outputs/110.为文学开窗/思想索引-校对轮.csv`
+- `outputs/110.为文学开窗/思想索引-校对轮.json`
+- `outputs/110.为文学开窗/思想索引-校对轮.md`
+- `outputs/110.为文学开窗/校对说明.md`
+- `outputs/111.丑陋的中国人研究/思想索引-提取轮.csv`
+- `outputs/111.丑陋的中国人研究/思想索引-提取轮.json`
+- `outputs/111.丑陋的中国人研究/思想索引-提取轮.md`
+- `outputs/111.丑陋的中国人研究/提取说明.md`
+- `outputs/111.丑陋的中国人研究/思想索引-校对轮.csv`
+- `outputs/111.丑陋的中国人研究/思想索引-校对轮.json`
+- `outputs/111.丑陋的中国人研究/思想索引-校对轮.md`
+- `outputs/111.丑陋的中国人研究/校对说明.md`
+- `outputs/112.闽变研究与文星讼案/思想索引-提取轮.csv`
+- `outputs/112.闽变研究与文星讼案/思想索引-提取轮.json`
+- `outputs/112.闽变研究与文星讼案/思想索引-提取轮.md`
+- `outputs/112.闽变研究与文星讼案/提取说明.md`
+- `outputs/112.闽变研究与文星讼案/思想索引-校对轮.csv`
+- `outputs/112.闽变研究与文星讼案/思想索引-校对轮.json`
+- `outputs/112.闽变研究与文星讼案/思想索引-校对轮.md`
+- `outputs/112.闽变研究与文星讼案/校对说明.md`
+- `outputs/113.大江大海骗了你/思想索引-提取轮.csv`
+- `outputs/113.大江大海骗了你/思想索引-提取轮.json`
+- `outputs/113.大江大海骗了你/思想索引-提取轮.md`
+- `outputs/113.大江大海骗了你/提取说明.md`
+- `outputs/113.大江大海骗了你/思想索引-校对轮.csv`
+- `outputs/113.大江大海骗了你/思想索引-校对轮.json`
+- `outputs/113.大江大海骗了你/思想索引-校对轮.md`
+- `outputs/113.大江大海骗了你/校对说明.md`
+- `outputs/114.蒋介石研究/思想索引-提取轮.csv`
+- `outputs/114.蒋介石研究/思想索引-提取轮.json`
+- `outputs/114.蒋介石研究/思想索引-提取轮.md`
+- `outputs/114.蒋介石研究/提取说明.md`
+- `outputs/114.蒋介石研究/思想索引-校对轮.csv`
+- `outputs/114.蒋介石研究/思想索引-校对轮.json`
+- `outputs/114.蒋介石研究/思想索引-校对轮.md`
+- `outputs/114.蒋介石研究/校对说明.md`
+- `outputs/115.蒋介石研究续集/思想索引-提取轮.csv`
+- `outputs/115.蒋介石研究续集/思想索引-提取轮.json`
+- `outputs/115.蒋介石研究续集/思想索引-提取轮.md`
+- `outputs/115.蒋介石研究续集/提取说明.md`
+- `outputs/115.蒋介石研究续集/思想索引-校对轮.csv`
+- `outputs/115.蒋介石研究续集/思想索引-校对轮.json`
+- `outputs/115.蒋介石研究续集/思想索引-校对轮.md`
+- `outputs/115.蒋介石研究续集/校对说明.md`
+- `outputs/116.蒋介石研究三集/思想索引-提取轮.csv`
+- `outputs/116.蒋介石研究三集/思想索引-提取轮.json`
+- `outputs/116.蒋介石研究三集/思想索引-提取轮.md`
+- `outputs/116.蒋介石研究三集/提取说明.md`
+- `outputs/116.蒋介石研究三集/思想索引-校对轮.csv`
+- `outputs/116.蒋介石研究三集/思想索引-校对轮.json`
+- `outputs/116.蒋介石研究三集/思想索引-校对轮.md`
+- `outputs/116.蒋介石研究三集/校对说明.md`
+- `outputs/117.蒋介石研究四集/思想索引-提取轮.csv`
+- `outputs/117.蒋介石研究四集/思想索引-提取轮.json`
+- `outputs/117.蒋介石研究四集/思想索引-提取轮.md`
+- `outputs/117.蒋介石研究四集/提取说明.md`
+- `outputs/117.蒋介石研究四集/思想索引-校对轮.csv`
+- `outputs/117.蒋介石研究四集/思想索引-校对轮.json`
+- `outputs/117.蒋介石研究四集/思想索引-校对轮.md`
+- `outputs/117.蒋介石研究四集/校对说明.md`
 - `site/index.html`：站点首页，包含“李敖思想索引”和“李敖人生智慧”两个入口。
 - `site/thinking.html`：李敖思想索引内容页。
 - `site/data.js`
@@ -1269,6 +1466,140 @@ node scripts\build-proofread-index-book96.mjs
 node scripts\validate-thinking-index.mjs outputs\096.李敖送电集\思想索引-校对轮.json
 node scripts\build-thinking-index-book97.mjs
 node scripts\validate-thinking-index.mjs outputs\097.李敖来电集\思想索引-提取轮.json
+node scripts\build-proofread-index-book97.mjs
+node scripts\validate-thinking-index.mjs outputs\097.李敖来电集\思想索引-校对轮.json
+node scripts\build-thinking-index-book98.mjs
+node scripts\validate-thinking-index.mjs outputs\098.李敖通电集\思想索引-提取轮.json
+node scripts\build-proofread-index-book98.mjs
+node scripts\validate-thinking-index.mjs outputs\098.李敖通电集\思想索引-校对轮.json
+node scripts\build-thinking-index-book99.mjs
+node scripts\validate-thinking-index.mjs outputs\099.胡适研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book99.mjs
+node scripts\validate-thinking-index.mjs outputs\099.胡适研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book100.mjs
+node scripts\validate-thinking-index.mjs outputs\100.胡适评传\思想索引-提取轮.json
+node scripts\build-proofread-index-book100.mjs
+node scripts\validate-thinking-index.mjs outputs\100.胡适评传\思想索引-校对轮.json
+node scripts\build-thinking-index-book101.mjs
+node scripts\validate-thinking-index.mjs outputs\101.胡适与我\思想索引-提取轮.json
+node scripts\build-proofread-index-book101.mjs
+node scripts\validate-thinking-index.mjs outputs\101.胡适与我\思想索引-校对轮.json
+node scripts\build-thinking-index-book102.mjs
+node scripts\validate-thinking-index.mjs outputs\102.孙逸仙和中国西化医学\思想索引-提取轮.json
+node scripts\build-proofread-index-book102.mjs
+node scripts\validate-thinking-index.mjs outputs\102.孙逸仙和中国西化医学\思想索引-校对轮.json
+node scripts\build-thinking-index-book103.mjs
+node scripts\validate-thinking-index.mjs outputs\103.孙中山研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book103.mjs
+node scripts\validate-thinking-index.mjs outputs\103.孙中山研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book104.mjs
+node scripts\validate-thinking-index.mjs outputs\104.李登辉的真面目\思想索引-提取轮.json
+node scripts\build-proofread-index-book104.mjs
+node scripts\validate-thinking-index.mjs outputs\104.李登辉的真面目\思想索引-校对轮.json
+node scripts\build-thinking-index-book105.mjs
+node scripts\validate-thinking-index.mjs outputs\105.李登辉的假面具\思想索引-提取轮.json
+node scripts\build-proofread-index-book105.mjs
+node scripts\validate-thinking-index.mjs outputs\105.李登辉的假面具\思想索引-校对轮.json
+node scripts\build-thinking-index-book106.mjs
+node scripts\validate-thinking-index.mjs outputs\106.郑南榕研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book106.mjs
+node scripts\validate-thinking-index.mjs outputs\106.郑南榕研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book107.mjs
+node scripts\validate-thinking-index.mjs outputs\107.陈水扁的真面目\思想索引-提取轮.json
+node scripts\build-proofread-index-book107.mjs
+node scripts\validate-thinking-index.mjs outputs\107.陈水扁的真面目\思想索引-校对轮.json
+node scripts\build-thinking-index-book108.mjs
+node scripts\validate-thinking-index.mjs outputs\108.李远哲的真面目\思想索引-提取轮.json
+node scripts\build-proofread-index-book108.mjs
+node scripts\validate-thinking-index.mjs outputs\108.李远哲的真面目\思想索引-校对轮.json
+node scripts\build-thinking-index-book109.mjs
+node scripts\validate-thinking-index.mjs outputs\109.你不知道的彭明敏\思想索引-提取轮.json
+node scripts\build-proofread-index-book109.mjs
+node scripts\validate-thinking-index.mjs outputs\109.你不知道的彭明敏\思想索引-校对轮.json
+node scripts\build-thinking-index-book110.mjs
+node scripts\validate-thinking-index.mjs outputs\110.为文学开窗\思想索引-提取轮.json
+node scripts\build-proofread-index-book110.mjs
+node scripts\validate-thinking-index.mjs outputs\110.为文学开窗\思想索引-校对轮.json
+node scripts\build-thinking-index-book111.mjs
+node scripts\validate-thinking-index.mjs outputs\111.丑陋的中国人研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book111.mjs
+node scripts\validate-thinking-index.mjs outputs\111.丑陋的中国人研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book112.mjs
+node scripts\validate-thinking-index.mjs outputs\112.闽变研究与文星讼案\思想索引-提取轮.json
+node scripts\build-proofread-index-book112.mjs
+node scripts\validate-thinking-index.mjs outputs\112.闽变研究与文星讼案\思想索引-校对轮.json
+node scripts\build-thinking-index-book113.mjs
+node scripts\validate-thinking-index.mjs outputs\113.大江大海骗了你\思想索引-提取轮.json
+node scripts\build-proofread-index-book113.mjs
+node scripts\validate-thinking-index.mjs outputs\113.大江大海骗了你\思想索引-校对轮.json
+node scripts\build-thinking-index-book114.mjs
+node scripts\validate-thinking-index.mjs outputs\114.蒋介石研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book114.mjs
+node scripts\validate-thinking-index.mjs outputs\114.蒋介石研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book115.mjs
+node scripts\validate-thinking-index.mjs outputs\115.蒋介石研究续集\思想索引-提取轮.json
+node scripts\build-proofread-index-book115.mjs
+node scripts\validate-thinking-index.mjs outputs\115.蒋介石研究续集\思想索引-校对轮.json
+node scripts\build-thinking-index-book116.mjs
+node scripts\validate-thinking-index.mjs outputs\116.蒋介石研究三集\思想索引-提取轮.json
+node scripts\build-proofread-index-book116.mjs
+node scripts\validate-thinking-index.mjs outputs\116.蒋介石研究三集\思想索引-校对轮.json
+node scripts\build-thinking-index-book117.mjs
+node scripts\validate-thinking-index.mjs outputs\117.蒋介石研究四集\思想索引-提取轮.json
+node scripts\build-proofread-index-book117.mjs
+node scripts\validate-thinking-index.mjs outputs\117.蒋介石研究四集\思想索引-校对轮.json
+node scripts\build-thinking-index-book118.mjs
+node scripts\validate-thinking-index.mjs outputs\118.蒋介石研究五集\思想索引-提取轮.json
+node scripts\build-proofread-index-book118.mjs
+node scripts\validate-thinking-index.mjs outputs\118.蒋介石研究五集\思想索引-校对轮.json
+node scripts\build-thinking-index-book119.mjs
+node scripts\validate-thinking-index.mjs outputs\119.蒋介石研究六集\思想索引-提取轮.json
+node scripts\build-proofread-index-book119.mjs
+node scripts\validate-thinking-index.mjs outputs\119.蒋介石研究六集\思想索引-校对轮.json
+node scripts\build-thinking-index-book120.mjs
+node scripts\validate-thinking-index.mjs outputs\120.蒋介石的真面目\思想索引-提取轮.json
+node scripts\build-proofread-index-book120.mjs
+node scripts\validate-thinking-index.mjs outputs\120.蒋介石的真面目\思想索引-校对轮.json
+node scripts\build-thinking-index-book121.mjs
+node scripts\validate-thinking-index.mjs outputs\121.蒋介石评传\思想索引-提取轮.json
+node scripts\build-proofread-index-book121.mjs
+node scripts\validate-thinking-index.mjs outputs\121.蒋介石评传\思想索引-校对轮.json
+node scripts\build-thinking-index-book122.mjs
+node scripts\validate-thinking-index.mjs outputs\122.蒋经国研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book122.mjs
+node scripts\validate-thinking-index.mjs outputs\122.蒋经国研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book123.mjs
+node scripts\validate-thinking-index.mjs outputs\123.论定蒋经国\思想索引-提取轮.json
+node scripts\build-proofread-index-book123.mjs
+node scripts\validate-thinking-index.mjs outputs\123.论定蒋经国\思想索引-校对轮.json
+node scripts\build-thinking-index-book124.mjs
+node scripts\validate-thinking-index.mjs outputs\124.蒋家臭史\思想索引-提取轮.json
+node scripts\build-proofread-index-book124.mjs
+node scripts\validate-thinking-index.mjs outputs\124.蒋家臭史\思想索引-校对轮.json
+node scripts\build-thinking-index-book125.mjs
+node scripts\validate-thinking-index.mjs outputs\125.李敖论人物\思想索引-提取轮.json
+node scripts\build-proofread-index-book125.mjs
+node scripts\validate-thinking-index.mjs outputs\125.李敖论人物\思想索引-校对轮.json
+node scripts\build-thinking-index-book126.mjs
+node scripts\validate-thinking-index.mjs outputs\126.国民党研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book126.mjs
+node scripts\validate-thinking-index.mjs outputs\126.国民党研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book127.mjs
+node scripts\validate-thinking-index.mjs outputs\127.国民党研究续集\思想索引-提取轮.json
+node scripts\build-proofread-index-book127.mjs
+node scripts\validate-thinking-index.mjs outputs\127.国民党研究续集\思想索引-校对轮.json
+node scripts\build-thinking-index-book128.mjs
+node scripts\validate-thinking-index.mjs outputs\128.国民党臭史\思想索引-提取轮.json
+node scripts\build-proofread-index-book128.mjs
+node scripts\validate-thinking-index.mjs outputs\128.国民党臭史\思想索引-校对轮.json
+node scripts\build-thinking-index-book129.mjs
+node scripts\validate-thinking-index.mjs outputs\129.老贼臭史\思想索引-提取轮.json
+node scripts\build-proofread-index-book129.mjs
+node scripts\validate-thinking-index.mjs outputs\129.老贼臭史\思想索引-校对轮.json
+node scripts\build-thinking-index-book130.mjs
+node scripts\validate-thinking-index.mjs outputs\130.给国民党难看\思想索引-提取轮.json
+node scripts\build-proofread-index-book130.mjs
+node scripts\validate-thinking-index.mjs outputs\130.给国民党难看\思想索引-校对轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

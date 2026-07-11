@@ -391,7 +391,139 @@ const currentBookFiles = [
   },
   {
     sequence: '097',
-    jsonPath: path.join(outputsDir, '097.李敖来电集', '思想索引-提取轮.json'),
+    jsonPath: path.join(outputsDir, '097.李敖来电集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '098',
+    jsonPath: path.join(outputsDir, '098.李敖通电集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '099',
+    jsonPath: path.join(outputsDir, '099.胡适研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '100',
+    jsonPath: path.join(outputsDir, '100.胡适评传', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '101',
+    jsonPath: path.join(outputsDir, '101.胡适与我', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '102',
+    jsonPath: path.join(outputsDir, '102.孙逸仙和中国西化医学', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '103',
+    jsonPath: path.join(outputsDir, '103.孙中山研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '104',
+    jsonPath: path.join(outputsDir, '104.李登辉的真面目', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '105',
+    jsonPath: path.join(outputsDir, '105.李登辉的假面具', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '106',
+    jsonPath: path.join(outputsDir, '106.郑南榕研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '107',
+    jsonPath: path.join(outputsDir, '107.陈水扁的真面目', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '108',
+    jsonPath: path.join(outputsDir, '108.李远哲的真面目', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '109',
+    jsonPath: path.join(outputsDir, '109.你不知道的彭明敏', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '110',
+    jsonPath: path.join(outputsDir, '110.为文学开窗', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '111',
+    jsonPath: path.join(outputsDir, '111.丑陋的中国人研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '112',
+    jsonPath: path.join(outputsDir, '112.闽变研究与文星讼案', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '113',
+    jsonPath: path.join(outputsDir, '113.大江大海骗了你', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '114',
+    jsonPath: path.join(outputsDir, '114.蒋介石研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '115',
+    jsonPath: path.join(outputsDir, '115.蒋介石研究续集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '116',
+    jsonPath: path.join(outputsDir, '116.蒋介石研究三集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '117',
+    jsonPath: path.join(outputsDir, '117.蒋介石研究四集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '118',
+    jsonPath: path.join(outputsDir, '118.蒋介石研究五集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '119',
+    jsonPath: path.join(outputsDir, '119.蒋介石研究六集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '120',
+    jsonPath: path.join(outputsDir, '120.蒋介石的真面目', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '121',
+    jsonPath: path.join(outputsDir, '121.蒋介石评传', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '122',
+    jsonPath: path.join(outputsDir, '122.蒋经国研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '123',
+    jsonPath: path.join(outputsDir, '123.论定蒋经国', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '124',
+    jsonPath: path.join(outputsDir, '124.蒋家臭史', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '125',
+    jsonPath: path.join(outputsDir, '125.李敖论人物', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '126',
+    jsonPath: path.join(outputsDir, '126.国民党研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '127',
+    jsonPath: path.join(outputsDir, '127.国民党研究续集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '128',
+    jsonPath: path.join(outputsDir, '128.国民党臭史', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '129',
+    jsonPath: path.join(outputsDir, '129.老贼臭史', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '130',
+    jsonPath: path.join(outputsDir, '130.给国民党难看', '思想索引-校对轮.json'),
   },
 ];
 
