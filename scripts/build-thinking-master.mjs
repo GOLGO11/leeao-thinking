@@ -525,6 +525,70 @@ const currentBookFiles = [
     sequence: '130',
     jsonPath: path.join(outputsDir, '130.给国民党难看', '思想索引-校对轮.json'),
   },
+  {
+    sequence: '131',
+    jsonPath: path.join(outputsDir, '131.给外省人难看', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '132',
+    jsonPath: path.join(outputsDir, '132.冷眼看台湾', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '133',
+    jsonPath: path.join(outputsDir, '133.白眼看台湾', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '134',
+    jsonPath: path.join(outputsDir, '134.法眼看台湾', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '135',
+    jsonPath: path.join(outputsDir, '135.民进党研究', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '136',
+    jsonPath: path.join(outputsDir, '136.白色恐怖述奇', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '137',
+    jsonPath: path.join(outputsDir, '137.给台湾人难看', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '138',
+    jsonPath: path.join(outputsDir, '138.你不知道的二二八', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '139',
+    jsonPath: path.join(outputsDir, '139.另一面的二二八', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '140',
+    jsonPath: path.join(outputsDir, '140.洗你的脑，掐他脖子', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '141',
+    jsonPath: path.join(outputsDir, '141.李敖闹衙集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '142',
+    jsonPath: path.join(outputsDir, '142.李敖刀笔集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '143',
+    jsonPath: path.join(outputsDir, '143.李敖弄法集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '144',
+    jsonPath: path.join(outputsDir, '144.李敖放刁集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '145',
+    jsonPath: path.join(outputsDir, '145.李敖好讼集', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '146',
+    jsonPath: path.join(outputsDir, '146.你不知道的司法黑暗', '思想索引-校对轮.json'),
+  },
 ];
 
 function csvEscape(value) {

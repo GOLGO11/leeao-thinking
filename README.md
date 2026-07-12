@@ -144,10 +144,26 @@
 | 128 | 国民党臭史 | 校对轮 | 已校对 | 154 |
 | 129 | 老贼臭史 | 校对轮 | 已校对 | 96 |
 | 130 | 给国民党难看 | 校对轮 | 已校对 | 154 |
+| 131 | 给外省人难看 | 校对轮 | 已校对 | 162 |
+| 132 | 冷眼看台湾 | 校对轮 | 已校对 | 111 |
+| 133 | 白眼看台湾 | 校对轮 | 已校对 | 89 |
+| 134 | 法眼看台湾 | 校对轮 | 已校对 | 89 |
+| 135 | 民进党研究 | 校对轮 | 已校对 | 189 |
+| 136 | 白色恐怖述奇 | 校对轮 | 已校对 | 101 |
+| 137 | 给台湾人难看 | 校对轮 | 已校对 | 134 |
+| 138 | 你不知道的二二八 | 校对轮 | 已校对 | 18 |
+| 139 | 另一面的二二八 | 校对轮 | 已校对 | 117 |
+| 140 | 洗你的脑，掐他脖子 | 校对轮 | 已校对 | 117 |
+| 141 | 李敖闹衙集 | 校对轮 | 已校对 | 104 |
+| 142 | 李敖刀笔集 | 校对轮 | 已校对 | 109 |
+| 143 | 李敖弄法集 | 校对轮 | 已校对 | 112 |
+| 144 | 李敖放刁集 | 校对轮 | 已校对 | 113 |
+| 145 | 李敖好讼集 | 校对轮 | 已校对 | 91 |
+| 146 | 你不知道的司法黑暗 | 校对轮 | 已校对 | 141 |
 
 ## 当前分类
 
-当前 13294 条索引统一使用 8 个原子分类：
+当前 15091 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -1600,6 +1616,70 @@ node scripts\build-thinking-index-book130.mjs
 node scripts\validate-thinking-index.mjs outputs\130.给国民党难看\思想索引-提取轮.json
 node scripts\build-proofread-index-book130.mjs
 node scripts\validate-thinking-index.mjs outputs\130.给国民党难看\思想索引-校对轮.json
+node scripts\build-thinking-index-book131.mjs
+node scripts\validate-thinking-index.mjs outputs\131.给外省人难看\思想索引-提取轮.json
+node scripts\build-proofread-index-book131.mjs
+node scripts\validate-thinking-index.mjs outputs\131.给外省人难看\思想索引-校对轮.json
+node scripts\build-thinking-index-book132.mjs
+node scripts\validate-thinking-index.mjs outputs\132.冷眼看台湾\思想索引-提取轮.json
+node scripts\build-proofread-index-book132.mjs
+node scripts\validate-thinking-index.mjs outputs\132.冷眼看台湾\思想索引-校对轮.json
+node scripts\build-thinking-index-book133.mjs
+node scripts\validate-thinking-index.mjs outputs\133.白眼看台湾\思想索引-提取轮.json
+node scripts\build-proofread-index-book133.mjs
+node scripts\validate-thinking-index.mjs outputs\133.白眼看台湾\思想索引-校对轮.json
+node scripts\build-thinking-index-book134.mjs
+node scripts\validate-thinking-index.mjs outputs\134.法眼看台湾\思想索引-提取轮.json
+node scripts\build-proofread-index-book134.mjs
+node scripts\validate-thinking-index.mjs outputs\134.法眼看台湾\思想索引-校对轮.json
+node scripts\build-thinking-index-book135.mjs
+node scripts\validate-thinking-index.mjs outputs\135.民进党研究\思想索引-提取轮.json
+node scripts\build-proofread-index-book135.mjs
+node scripts\validate-thinking-index.mjs outputs\135.民进党研究\思想索引-校对轮.json
+node scripts\build-thinking-index-book136.mjs
+node scripts\validate-thinking-index.mjs outputs\136.白色恐怖述奇\思想索引-提取轮.json
+node scripts\build-proofread-index-book136.mjs
+node scripts\validate-thinking-index.mjs outputs\136.白色恐怖述奇\思想索引-校对轮.json
+node scripts\build-thinking-index-book137.mjs
+node scripts\validate-thinking-index.mjs outputs\137.给台湾人难看\思想索引-提取轮.json
+node scripts\build-proofread-index-book137.mjs
+node scripts\validate-thinking-index.mjs outputs\137.给台湾人难看\思想索引-校对轮.json
+node scripts\build-thinking-index-book138.mjs
+node scripts\validate-thinking-index.mjs outputs\138.你不知道的二二八\思想索引-提取轮.json
+node scripts\build-proofread-index-book138.mjs
+node scripts\validate-thinking-index.mjs outputs\138.你不知道的二二八\思想索引-校对轮.json
+node scripts\build-thinking-index-book139.mjs
+node scripts\validate-thinking-index.mjs outputs\139.另一面的二二八\思想索引-提取轮.json
+node scripts\build-proofread-index-book139.mjs
+node scripts\validate-thinking-index.mjs outputs\139.另一面的二二八\思想索引-校对轮.json
+node scripts\build-thinking-index-book140.mjs
+node scripts\validate-thinking-index.mjs outputs\140.洗你的脑，掐他脖子\思想索引-提取轮.json
+node scripts\build-proofread-index-book140.mjs
+node scripts\validate-thinking-index.mjs outputs\140.洗你的脑，掐他脖子\思想索引-校对轮.json
+node scripts\build-thinking-index-book141.mjs
+node scripts\validate-thinking-index.mjs outputs\141.李敖闹衙集\思想索引-提取轮.json
+node scripts\build-proofread-index-book141.mjs
+node scripts\validate-thinking-index.mjs outputs\141.李敖闹衙集\思想索引-校对轮.json
+node scripts\build-thinking-index-book142.mjs
+node scripts\validate-thinking-index.mjs outputs\142.李敖刀笔集\思想索引-提取轮.json
+node scripts\build-proofread-index-book142.mjs
+node scripts\validate-thinking-index.mjs outputs\142.李敖刀笔集\思想索引-校对轮.json
+node scripts\build-thinking-index-book143.mjs
+node scripts\validate-thinking-index.mjs outputs\143.李敖弄法集\思想索引-提取轮.json
+node scripts\build-proofread-index-book143.mjs
+node scripts\validate-thinking-index.mjs outputs\143.李敖弄法集\思想索引-校对轮.json
+node scripts\build-thinking-index-book144.mjs
+node scripts\validate-thinking-index.mjs outputs\144.李敖放刁集\思想索引-提取轮.json
+node scripts\build-proofread-index-book144.mjs
+node scripts\validate-thinking-index.mjs outputs\144.李敖放刁集\思想索引-校对轮.json
+node scripts\build-thinking-index-book145.mjs
+node scripts\validate-thinking-index.mjs outputs\145.李敖好讼集\思想索引-提取轮.json
+node scripts\build-proofread-index-book145.mjs
+node scripts\validate-thinking-index.mjs outputs\145.李敖好讼集\思想索引-校对轮.json
+node scripts\build-thinking-index-book146.mjs
+node scripts\validate-thinking-index.mjs outputs\146.你不知道的司法黑暗\思想索引-提取轮.json
+node scripts\build-proofread-index-book146.mjs
+node scripts\validate-thinking-index.mjs outputs\146.你不知道的司法黑暗\思想索引-校对轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs
