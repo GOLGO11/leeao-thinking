@@ -160,10 +160,20 @@
 | 144 | 李敖放刁集 | 校对轮 | 已校对 | 113 |
 | 145 | 李敖好讼集 | 校对轮 | 已校对 | 91 |
 | 146 | 你不知道的司法黑暗 | 校对轮 | 已校对 | 141 |
+| 147 | 笑傲五十年 | 校对轮 | 已校对 | 170 |
+| 148 | 第一流人的境界 | 校对轮 | 已校对 | 172 |
+| 149 | 李敖智慧书 | 校对轮 | 已校对 | 146 |
+| 150 | 恰似我的温柔 | 校对轮 | 已校对 | 109 |
+| 151 | 启发你的小故事 | 校对轮 | 已校对 | 130 |
+| 152 | 君子爱人以色 | 校对轮 | 已校对 | 115 |
+| 153 | 只爱一点点 | 校对轮 | 已校对 | 121 |
+| 154 | 从万宝囊到臭屎堆 | 校对轮 | 已校对 | 143 |
+| 155 | 我们没有明天 | 校对轮 | 已校对 | 150 |
+| 156 | 李敖生死书 | 校对轮 | 已校对 | 81 |
 
 ## 当前分类
 
-当前 15091 条索引统一使用 8 个原子分类：
+当前 16428 条索引统一使用 8 个原子分类：
 
 - 写作
 - 方法
@@ -1680,6 +1690,46 @@ node scripts\build-thinking-index-book146.mjs
 node scripts\validate-thinking-index.mjs outputs\146.你不知道的司法黑暗\思想索引-提取轮.json
 node scripts\build-proofread-index-book146.mjs
 node scripts\validate-thinking-index.mjs outputs\146.你不知道的司法黑暗\思想索引-校对轮.json
+node scripts\build-thinking-index-book147.mjs
+node scripts\validate-thinking-index.mjs outputs\147.笑傲五十年\思想索引-提取轮.json
+node scripts\build-proofread-index-book147.mjs
+node scripts\validate-thinking-index.mjs outputs\147.笑傲五十年\思想索引-校对轮.json
+node scripts\build-thinking-index-book148.mjs
+node scripts\validate-thinking-index.mjs outputs\148.第一流人的境界\思想索引-提取轮.json
+node scripts\build-proofread-index-book148.mjs
+node scripts\validate-thinking-index.mjs outputs\148.第一流人的境界\思想索引-校对轮.json
+node scripts\build-thinking-index-book149.mjs
+node scripts\validate-thinking-index.mjs outputs\149.李敖智慧书\思想索引-提取轮.json
+node scripts\build-proofread-index-book149.mjs
+node scripts\validate-thinking-index.mjs outputs\149.李敖智慧书\思想索引-校对轮.json
+node scripts\build-thinking-index-book150.mjs
+node scripts\validate-thinking-index.mjs outputs\150.恰似我的温柔\思想索引-提取轮.json
+node scripts\build-proofread-index-book150.mjs
+node scripts\validate-thinking-index.mjs outputs\150.恰似我的温柔\思想索引-校对轮.json
+node scripts\build-thinking-index-book151.mjs
+node scripts\validate-thinking-index.mjs outputs\151.启发你的小故事\思想索引-提取轮.json
+node scripts\build-proofread-index-book151.mjs
+node scripts\validate-thinking-index.mjs outputs\151.启发你的小故事\思想索引-校对轮.json
+node scripts\build-thinking-index-book152.mjs
+node scripts\validate-thinking-index.mjs outputs\152.君子爱人以色\思想索引-提取轮.json
+node scripts\build-proofread-index-book152.mjs
+node scripts\validate-thinking-index.mjs outputs\152.君子爱人以色\思想索引-校对轮.json
+node scripts\build-thinking-index-book153.mjs
+node scripts\validate-thinking-index.mjs outputs\153.只爱一点点\思想索引-提取轮.json
+node scripts\build-proofread-index-book153.mjs
+node scripts\validate-thinking-index.mjs outputs\153.只爱一点点\思想索引-校对轮.json
+node scripts\build-thinking-index-book154.mjs
+node scripts\validate-thinking-index.mjs outputs\154.从万宝囊到臭屎堆\思想索引-提取轮.json
+node scripts\build-proofread-index-book154.mjs
+node scripts\validate-thinking-index.mjs outputs\154.从万宝囊到臭屎堆\思想索引-校对轮.json
+node scripts\build-thinking-index-book155.mjs
+node scripts\validate-thinking-index.mjs outputs\155.我们没有明天\思想索引-提取轮.json
+node scripts\build-proofread-index-book155.mjs
+node scripts\validate-thinking-index.mjs outputs\155.我们没有明天\思想索引-校对轮.json
+node scripts\build-thinking-index-book156.mjs
+node scripts\validate-thinking-index.mjs outputs\156.李敖生死书\思想索引-提取轮.json
+node scripts\build-proofread-index-book156.mjs
+node scripts\validate-thinking-index.mjs outputs\156.李敖生死书\思想索引-校对轮.json
 node scripts\reclassify-current-index.mjs
 node scripts\build-thinking-master.mjs
 node scripts\build-thinking-site.mjs

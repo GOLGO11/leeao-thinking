@@ -589,6 +589,46 @@ const currentBookFiles = [
     sequence: '146',
     jsonPath: path.join(outputsDir, '146.你不知道的司法黑暗', '思想索引-校对轮.json'),
   },
+  {
+    sequence: '147',
+    jsonPath: path.join(outputsDir, '147.笑傲五十年', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '148',
+    jsonPath: path.join(outputsDir, '148.第一流人的境界', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '149',
+    jsonPath: path.join(outputsDir, '149.李敖智慧书', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '150',
+    jsonPath: path.join(outputsDir, '150.恰似我的温柔', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '151',
+    jsonPath: path.join(outputsDir, '151.启发你的小故事', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '152',
+    jsonPath: path.join(outputsDir, '152.君子爱人以色', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '153',
+    jsonPath: path.join(outputsDir, '153.只爱一点点', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '154',
+    jsonPath: path.join(outputsDir, '154.从万宝囊到臭屎堆', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '155',
+    jsonPath: path.join(outputsDir, '155.我们没有明天', '思想索引-校对轮.json'),
+  },
+  {
+    sequence: '156',
+    jsonPath: path.join(outputsDir, '156.李敖生死书', '思想索引-校对轮.json'),
+  },
 ];
 
 function csvEscape(value) {
